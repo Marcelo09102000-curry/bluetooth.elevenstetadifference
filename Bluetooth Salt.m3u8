@@ -232,9 +232,9 @@ https://mc-5fythpik4t.bunny.run/40/dopamine/manifest.mpd
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
-https://mc-5fythpik4t.bunny.run/32/dopamine/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
 #EXTINF:-3 ch-number="26" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-TV Maria
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -330,13 +330,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 https://mc-5fythpik4t.bunny.run/71/dopamine/manifest.mpd
 
 #EXTINF:-3 ch-number="37" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Cinemax
-#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232303137333630323534393638:63547a3159507a7036314e3357436c7a
-https://mc-5fythpik4t.bunny.run/16/dopamine/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
 #EXTINF:-3 ch-number="38" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-HFC
 https://ln.run/4x0dD
@@ -534,8 +534,14 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #KODIPROP:inputstream.adaptive.license_key=31363334313133373731323334343436:673478506852336979544a4f38475479
 https://mc-5fythpik4t.bunny.run/49/dopamine/manifest.mpd
 
-#EXTINF:-4 ch-number="63" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Euro news
-https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-4 ch-number="63" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-SpotV
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
 #EXTINF:-4 ch-number="64" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-ABC Australia
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -573,14 +579,14 @@ https://mc-5fythpik4t.bunny.run/70/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363735303936333737333135333133:6a51495039633034486a5a4a67677a4f
 http://161.49.17.2:6610/001/2/ch00000090990000001325/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-4 ch-number="68" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Living Asia
-#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#EXTINF:-4 ch-number="68" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-SpotV2
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232363231343638363035363236:544962686d3165306836346e73673346
-https://mc-5fythpik4t.bunny.run/92/dopamine/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-4 ch-number="69" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-CCTV4
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -637,13 +643,13 @@ http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Wi
 https://mc-5fythpik4t.bunny.run/136/dopamine/manifest.mpd
 
 #EXTINF:-4 ch-number="75" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-KBS World
-#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363735373632313135333130303533:3473433831554435334e4a4567337952
-http://161.49.17.2:6610/001/2/ch00000090990000001353/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
 #EXTINF:-4 ch-number="76" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Euro News
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
@@ -2095,6 +2101,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
