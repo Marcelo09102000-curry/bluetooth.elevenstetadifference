@@ -236,14 +236,14 @@ https://mc-5fythpik4t.bunny.run/40/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
 https://mc-5fythpik4t.bunny.run/32/dopamine/manifest.mpd
 
-#EXTINF:-3 ch-number="26" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Solar Sports
+#EXTINF:-3 ch-number="26" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-TV Maria
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
-https://mc-5fythpik4t.bunny.run/56/dopamine/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=31363233323238303538303333323032:486c53576e387559676c774b53375037
+https://mc-5fythpik4t.bunny.run/131/dopamine/manifest.mpd
 
 #EXTINF:-3 ch-number="27" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Gtv
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -421,14 +421,14 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Amogus's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-4 group-logo=""
 
-#EXTINF:-4 ch-number="48" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Hunan
+#EXTINF:-4 ch-number="48" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Solar Sports
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233343036393934323135373239:62336759307a434f6a724c7a506a3956
-http://161.49.17.2:6610/001/2/ch00000090990000001164/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
+https://mc-5fythpik4t.bunny.run/56/dopamine/manifest.mpd
 
 #EXTINF:-4 ch-number="49" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-INCTV
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -469,7 +469,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
 
 #EXTINF:-4 ch-number="54" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVN
-https://dice-live-ap.akamaized.net/hls/live/2001866/274550-304532/exchange274550silpg_274550_1400/chunklist.m3u8?hdntl=exp=1761558260~acl=%2f*~id=3018b976-91c2-472b-ab21-aeedf026ddbd~data=hdntl,dWlkPWhjQjNKQ3w5M2E0MzA2Mi1mZWE1LTQ1MmMtOGFhYi02ZjAzMGZhY2YwMWImaXA9MTM2LjE1OC43OC4xNiZleHA9MTc2MTU1ODI4OSZlaWQ9Mjc0NTUwJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=be9edfdd6be344a96bdca593c300af0a099e16ee52083a4458019d42cd4f7655
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-4 ch-number="55" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-UNTV
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -480,12 +485,14 @@ https://dice-live-ap.akamaized.net/hls/live/2001866/274550-304532/exchange274550
 #KODIPROP:inputstream.adaptive.license_key=31363231393131383734323234313831:7a333137597652656743393372427153
 https://mc-5fythpik4t.bunny.run/10/dopamine/manifest.mpd
 
-#EXTINF:-4 ch-number="56" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-NOW tv Italy
+#EXTINF:-4 ch-number="56" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVN movies pinoy
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=111509ad5d16918190d8ceb1afa3c2c2:5369df3ee38ad965da555846bfa61a37
-https://g003-lin-it-cmaf-prd-ak.pcd.../Live/channel(skysportnba)/master_2hr-aac.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
 #EXTINF:-4 ch-number="57" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Rakuten
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
@@ -527,8 +534,8 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #KODIPROP:inputstream.adaptive.license_key=31363334313133373731323334343436:673478506852336979544a4f38475479
 https://mc-5fythpik4t.bunny.run/49/dopamine/manifest.mpd
 
-#EXTINF:-4 ch-number="63" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVN movies pinoy
-https://dice-live-ap.akamaized.net/hls/live/2001873/274551-304534/exchange274551zuvdg_274551_1400/ielDCnsFA/media_653854.ts?hdntl=exp=1761557970~acl=/*~id=d1b3d62b-b9d6-49dc-a8c9-2f77226b5455~data=hdntl,dWlkPWhjQjNKQ3w5M2E0MzA2Mi1mZWE1LTQ1MmMtOGFhYi02ZjAzMGZhY2YwMWImaXA9MTM2LjE1OC43OC4xNiZleHA9MTc2MTU1Nzk5OSZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=dc29836ef209946a93cbe2210e30e2d74efb6dff1fb2acc8c2f908bebad66c6a
+#EXTINF:-4 ch-number="63" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Euro news
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-4 ch-number="64" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-ABC Australia
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -986,7 +993,7 @@ https://mc-5fythpik4t.bunny.run/8/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
 https://mc-5fythpik4t.bunny.run/39/dopamine/manifest.mpd
 
-#EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DD National
+#EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DD National 
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -996,13 +1003,13 @@ https://mc-5fythpik4t.bunny.run/39/dopamine/manifest.mpd
 http://161.49.17.2:6610/001/2/ch00000090990000001148/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="116" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Bloomberg
-#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232363231313537363033363431:63524b336463684231714a4f35363351
-http://161.49.17.2:6610/001/2/ch00000090990000001153/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
 
 #EXTINF:-6 ch-number="117" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-BS Fuji
 #EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
@@ -2088,5 +2095,6 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
