@@ -1,0 +1,2092 @@
+Bluetooth Salt
+
+#EXTM3U billed-msg="BT Salt"
+
+#EXTM3U url-tvg=""
+
+TV
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Half's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 group-logo=""
+
+#EXTINF:-1 ch-number="1" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV1-Abante Teletabloid
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 ch-number="2" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV1-One news
+#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
+#EXTVLCOPT:http-origin=http://161.49.17.2:6610
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
+
+#EXTINF:-1 ch-number="3" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV1-DZMM Teleradyo HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+#EXTINF:-1 ch-number="4" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV1-BNC HD
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
+https://mc-5fythpik4t.bunny.run/74/dopamine/manifest.mpd
+
+#EXTINF:-1 ch-number="5" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV1-True TV
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
+
+#EXTINF:-1 ch-number="6" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV1-One PH
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+
+#EXTINF:-1 ch-number="7" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV1-ANC HD Philippines
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363234353837393638333931313738:335a493259306157495a557356494b44
+https://mc-5fythpik4t.bunny.run/43/dopamine/manifest.mpd
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Curry's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-2 group-logo=""
+
+#EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-The Manila Hotel
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363234383632393339373032363235:6d48695652315a7766774b4844783439
+https://mc-5fythpik4t.bunny.run/22/dopamine/manifest.mpd
+
+#EXTINF:-2 ch-number="9" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-AnimaX
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+
+#EXTINF:-2 ch-number="10" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-Knowledge channel
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
+https://mc-5fythpik4t.bunny.run/12/dopamine/manifest.mpd
+
+#EXTINF:-2 ch-number="11" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-Congress TV
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735373539353634323837313330:45697656385434514879435648537855
+http://161.49.17.2:6610/001/2/ch00000090990000001328/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-2 ch-number="12" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-oneXplore
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
+
+#EXTINF:-2 ch-number="13" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-TVUP
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
+
+#EXTINF:-2 ch-number="14" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-PTV
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
+https://mc-5fythpik4t.bunny.run/4/dopamine/manifest.mpd
+
+#EXTINF:-2 ch-number="15" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-GMA
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+https://mc-5fythpik4t.bunny.run/7/dopamine/manifest.mpd
+
+#EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-Alltv2
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
+https://mc-5fythpik4t.bunny.run/55/dopamine/manifest.mpd
+
+#EXTINF:-2 ch-number="17" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-iBC HD
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
+https://mc-5fythpik4t.bunny.run/13/dopamine/manifest.mpd
+
+#EXTINF:-2 ch-number="18" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-TV5 HD
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438303333323033373730:375a684a31357647653565574b363076
+https://mc-5fythpik4t.bunny.run/5/dopamine/manifest.mpd
+
+#EXTINF:-2 ch-number="19" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-RPTV (RPN)
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383439313133323034313530:78645370476a496d5756385231474332
+https://mc-5fythpik4t.bunny.run/9/dopamine/manifest.mpd
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Sig's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-3 group-logo=""
+
+#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-A2Z
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
+https://mc-5fythpik4t.bunny.run/27/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="21" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-SolarFlix
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
+https://mc-5fythpik4t.bunny.run/127/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="22" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-payperview
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-grp-02-prod.akamaized.net/bpk-tv/cg_ppv_main_hd/default/index.mpd
+
+#EXTINF:-3 ch-number="23" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Aliw
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303137373937323535313836:3551344768323677674c32704a713249
+https://mc-5fythpik4t.bunny.run/29/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="24" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-DZRH
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:74576436426946764a6b4e5734456e37
+https://mc-5fythpik4t.bunny.run/40/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="25" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-HBO
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
+https://mc-5fythpik4t.bunny.run/32/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="26" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Solar Sports
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
+https://mc-5fythpik4t.bunny.run/56/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="27" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Gtv
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
+https://mc-5fythpik4t.bunny.run/11/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="28" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-NET25
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:56783536726130576e5a4171564c3741
+https://mc-5fythpik4t.bunny.run/17/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="29" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-RJ digiTV
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323237323935303332363334:38346b5732353165303954347677476e
+https://mc-5fythpik4t.bunny.run/36/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="30" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+#EXTINF:-3 ch-number="31" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-BNC SD
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index.mpd
+
+#EXTINF:-3 ch-number="32" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-VarsitV
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-3 ch-number="33" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Light TV (Gods channel of blessings)
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
+https://mc-5fythpik4t.bunny.run/88/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="34" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Food network
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
+#EXTINF:-3 ch-number="35" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-HBO Signature
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-3 ch-number="36" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Central Luzon Television Incorporated
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735303934383833333131363533:4b44557035556777346e4b3745613651
+https://mc-5fythpik4t.bunny.run/71/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="37" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Cinemax
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303137333630323534393638:63547a3159507a7036314e3357436c7a
+https://mc-5fythpik4t.bunny.run/16/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="38" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-HFC
+https://ln.run/4x0dD
+
+#EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Kapamilya channel HD
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+https://mc-5fythpik4t.bunny.run/15/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Mindanow Network
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
+https://mc-5fythpik4t.bunny.run/77/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="41" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-One Sports
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+
+#EXTINF:-3 ch-number="42" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-SariSari
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
+
+#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-CineMo!
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363735393833333531383134:4a4f75336e6e30764575624855326937
+https://mc-5fythpik4t.bunny.run/94/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="44" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-PBO
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
+https://mc-5fythpik4t.bunny.run/8/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="45" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-GNN
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363235373230343031373839383832:6f3367454f743663393778454d327338
+https://mc-5fythpik4t.bunny.run/44/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="46" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-CNN International
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032313231:6b5058557254355845335a6e63737030
+https://mc-5fythpik4t.bunny.run/28/dopamine/manifest.mpd
+
+#EXTINF:-3 ch-number="47" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-CCTN
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Amogus's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-4 group-logo=""
+
+#EXTINF:-4 ch-number="48" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Hunan
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233343036393934323135373239:62336759307a434f6a724c7a506a3956
+http://161.49.17.2:6610/001/2/ch00000090990000001164/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-4 ch-number="49" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-INCTV
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
+https://mc-5fythpik4t.bunny.run/23/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="50" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Cartoon Channel PH
+https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
+
+#EXTINF:-4 ch-number="51" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-RPTV (TV5)
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+
+#EXTINF:-4 ch-number="52" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Cartoonito
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+
+#EXTINF:-4 ch-number="53" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-BuKo
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
+
+#EXTINF:-4 ch-number="54" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVN
+https://dice-live-ap.akamaized.net/hls/live/2001866/274550-304532/exchange274550silpg_274550_1400/chunklist.m3u8?hdntl=exp=1761558260~acl=%2f*~id=3018b976-91c2-472b-ab21-aeedf026ddbd~data=hdntl,dWlkPWhjQjNKQ3w5M2E0MzA2Mi1mZWE1LTQ1MmMtOGFhYi02ZjAzMGZhY2YwMWImaXA9MTM2LjE1OC43OC4xNiZleHA9MTc2MTU1ODI4OSZlaWQ9Mjc0NTUwJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=be9edfdd6be344a96bdca593c300af0a099e16ee52083a4458019d42cd4f7655
+
+#EXTINF:-4 ch-number="55" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-UNTV
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393131383734323234313831:7a333137597652656743393372427153
+https://mc-5fythpik4t.bunny.run/10/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="56" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-NOW tv Italy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=111509ad5d16918190d8ceb1afa3c2c2:5369df3ee38ad965da555846bfa61a37
+https://g003-lin-it-cmaf-prd-ak.pcd.../Live/channel(skysportnba)/master_2hr-aac.mpd
+
+#EXTINF:-4 ch-number="57" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Rakuten
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-4 ch-number="58" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-NBA TV PH HD
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-4 ch-number="59" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Jeepney TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
+https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
+
+#EXTINF:-4 ch-number="60" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Lifetime
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031313938:715a36614f62445635304852794b3676
+http://161.49.17.2:6610/001/2/ch00000090990000001075/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-4 ch-number="61" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/b968b2b6-b245-11f0-84ec-be1bcda50f3d/21/1920x1080_5130400/index.m3u8
+
+#EXTINF:-4 ch-number="62" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Metro channel
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363334313133373731323334343436:673478506852336979544a4f38475479
+https://mc-5fythpik4t.bunny.run/49/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="63" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVN movies pinoy
+https://dice-live-ap.akamaized.net/hls/live/2001873/274551-304534/exchange274551zuvdg_274551_1400/ielDCnsFA/media_653854.ts?hdntl=exp=1761557970~acl=/*~id=d1b3d62b-b9d6-49dc-a8c9-2f77226b5455~data=hdntl,dWlkPWhjQjNKQ3w5M2E0MzA2Mi1mZWE1LTQ1MmMtOGFhYi02ZjAzMGZhY2YwMWImaXA9MTM2LjE1OC43OC4xNiZleHA9MTc2MTU1Nzk5OSZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=dc29836ef209946a93cbe2210e30e2d74efb6dff1fb2acc8c2f908bebad66c6a
+
+#EXTINF:-4 ch-number="64" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-ABC Australia
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303231333139323537333830:3139614a6335316d644f566d37444c75
+https://mc-5fythpik4t.bunny.run/78/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="65" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-EWTN
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393133313335323234373039:4372743534626238333533784d336159
+https://mc-5fythpik4t.bunny.run/20/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="66" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVe
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303232313031323537373830:3567746e30367a714e3346344f415947
+https://mc-5fythpik4t.bunny.run/70/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="67" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Rock action
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735303936333737333135333133:6a51495039633034486a5a4a67677a4f
+http://161.49.17.2:6610/001/2/ch00000090990000001325/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-4 ch-number="68" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Living Asia
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232363231343638363035363236:544962686d3165306836346e73673346
+https://mc-5fythpik4t.bunny.run/92/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="69" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-CCTV4
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363234393439353931383032393636:3570773244533748733935644c787a56
+https://mc-5fythpik4t.bunny.run/35/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="70" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Discovery channel
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323330323736303433313938:6774487273654e4b313631333258706f
+http://161.49.17.2:6610/001/2/ch00000090990000001194/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-4 ch-number="71" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Oras ng himala
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323237303338303332343538:373648504f5155373054657665783851
+https://mc-5fythpik4t.bunny.run/129/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="72" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Nickelodeon
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363639393633373136353837383139:767561696f37546667306c7366623536
+http://161.49.17.2:6610/001/2/ch00000090990000001313/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-4 ch-number="73" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Global Trekker
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323330363939303433353236:49644937557a3231706c733955343152
+http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-4 ch-number="74" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-France 24
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233303437383734383939333136:4d38626137306a303078363065573861
+https://mc-5fythpik4t.bunny.run/136/dopamine/manifest.mpd
+
+#EXTINF:-4 ch-number="75" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-KBS World
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735373632313135333130303533:3473433831554435334e4a4567337952
+http://161.49.17.2:6610/001/2/ch00000090990000001353/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-4 ch-number="76" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Euro News
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Loaf's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-5 group-logo=""
+
+#EXTINF:-5 ch-number="77" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-TLC
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/08PRNMO.png" ,TLC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Monde asie
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232373836323139373230313339:4c6641384b484e334734496479725669
+https://mc-5fythpik4t.bunny.run/69/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="79" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Fox news
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
+https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
+
+#EXTINF:-5 ch-number="80" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Paramount network
+http://45.173.75.4:2061/play/a09u
+
+#EXTINF:-5 ch-number="81" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Pinoy extreme
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303230383430323537313039:4758346d3275333571364e7259356554
+http://161.49.17.2:6610/001/2/ch00000090990000001098/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="82" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-NHK World Japan
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353336313933353432383534:51313339385a5a446a454c3132646b63
+https://mc-5fythpik4t.bunny.run/73/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="83" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Lotus Macao
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323330383739303433373435:74754b633331334537757a3533545a35
+https://mc-5fythpik4t.bunny.run/120/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="84" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Celestial Classic Movies
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938313138383033383733:395334474d7735663579353235453534
+https://mc-5fythpik4t.bunny.run/87/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="85" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-CinemaOne
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
+https://mc-5fythpik4t.bunny.run/19/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="86" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-CinemaWorld
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233303438363730383939353239:356c3450446f61674435646b36563675
+http://161.49.17.2:6610/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="87" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap movies
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363539343235323739323938313334:6134384c356c5050327331636b544734
+https://mc-5fythpik4t.bunny.run/98/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="88" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap action movies
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363539343235333939333035383832:5446354a4a514956636567484b47317a
+https://mc-5fythpik4t.bunny.run/99/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="89" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap TV
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353337313135353433363839:7573536e79344f796e746c324b695133
+https://mc-5fythpik4t.bunny.run/48/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="90" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap edge
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353337323935353433383639:696d305237483130677335756d643933
+https://mc-5fythpik4t.bunny.run/58/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="91" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Motor Vision+
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938383834383134323536:387938463676644f7141503474507435
+http://161.49.17.2:6610/001/2/ch00000090990000001245/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="92" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Premier football
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313130313238323933363838:3243794139594e6435434b517a497070
+https://mc-5fythpik4t.bunny.run/105/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="93" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Premier sports
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313130333638323933383631:7031306148395845396e32374369485a
+https://mc-5fythpik4t.bunny.run/122/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="94" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Premier sports 2
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233383335303430363337303331:4444313067453278686a4b6b7030494b
+https://mc-5fythpik4t.bunny.run/113/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="95" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-History
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383830323637303030383735:304d384b45573249714d6b7569675837
+http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="96" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Discovery asia
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313438303733343030323238:6e34314e394e4165743931496a394b74
+http://161.49.17.2:6610/001/2/ch00000090990000001334/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="97" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Asian Food Network
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313536373634343534323132:71504433773565593837796d68613333
+http://161.49.17.2:6610/001/2/ch00000090990000001342/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="98" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-CGTN documentary
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303230363630323536393533:4231724f6a50387230485673326c3233
+https://mc-5fythpik4t.bunny.run/75/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="99" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Channel News Asia
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393339333834323333353038:756a7351733939554668654a79633372
+https://mc-5fythpik4t.bunny.run/24/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="100" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-HGTV
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323239333936303432333530:4a766738536670314f52384c34783535
+http://161.49.17.2:6610/001/2/ch00000090990000001162/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="101" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-NHK B5
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233343133303337323335353239:327939373658545a37317536686b3146
+https://mc-5fythpik4t.bunny.run/67/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="102" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Animal Planet
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313439343038343136333130:386c6b6a64704d4d3039354d4e6a6933
+http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="103" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Crime & Investigation
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335353435353432363238:684b3276585a37386130763047346a54
+http://161.49.17.2:6610/001/2/ch00000090990000001144/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-5 ch-number="104" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Al Jazeera
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313439373730343234313334:6f486349336753304d6b696733463235
+https://mc-5fythpik4t.bunny.run/79/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="105" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-BS Premium
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233343132303338323235353437:78347a4839653239344566736f326963
+https://mc-5fythpik4t.bunny.run/66/dopamine/manifest.mpd
+
+#EXTINF:-5 ch-number="106" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-USA Today
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233333132393535313230333633:4e62694d463832326130536673695246
+https://mc-5fythpik4t.bunny.run/115/dopamine/manifest.mpd
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Salgu's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-6 group-logo=""
+
+#EXTINF:-6 ch-number="107" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Thrill
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938333434383133383337:32776734365267686977387049356d48
+https://mc-5fythpik4t.bunny.run/90/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="108" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Kix
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938353234383134303633:3669754977303668394e493367344773
+https://mc-5fythpik4t.bunny.run/47/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="109" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DW News
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363234383633343838373039333431:3838505141446f42397a723234697541
+http://161.49.17.2:6610/001/2/ch00000090990000001166/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-6 ch-number="110" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-AXN
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+
+#EXTINF:-6 ch-number="111" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-HBO Hits
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+#EXTINF:-6 ch-number="112" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-HBO Family
+#EXTVLCOPT:http-referrer=http://cignalplay.com
+#EXTVLCOPT:http-origin=http://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+#EXTINF:-6 ch-number="113" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PBO
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
+https://mc-5fythpik4t.bunny.run/8/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="114" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-VivaCinema
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
+https://mc-5fythpik4t.bunny.run/39/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DD National
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353336393335353433343536:397358334c5a30623539354d586d5348
+http://161.49.17.2:6610/001/2/ch00000090990000001148/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-6 ch-number="116" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Bloomberg
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232363231313537363033363431:63524b336463684231714a4f35363351
+http://161.49.17.2:6610/001/2/ch00000090990000001153/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-6 ch-number="117" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-BS Fuji
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233343132303338323235353437:78347a4839653239344566736f326963
+https://mc-5fythpik4t.bunny.run/80/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="118" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Al Saudiya
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323237343736303332383737:564b645766473531554563584d364651
+https://mc-5fythpik4t.bunny.run/79/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="119" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Filam
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323330343539303433333135:4e4273686b35786b47334b3330435778
+https://mc-5fythpik4t.bunny.run/108/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="120" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-CNBC
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313533363732343239353434:5339317237756b6b3845333663626645
+http://161.49.17.2:6610/001/2/ch00000090990000001344/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-6 ch-number="121" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Arirang
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303137313138323534373134:6f52306f47445a634838615a31643449
+https://mc-5fythpik4t.bunny.run/76/dopamine/manifest.mpd
+
+#EXTINF:-6 ch-number="122" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-6 ch-number="123" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-FX
+https://tvpass.org/live/FXXEast/sd
+
+#EXTINF:-6 ch-number="124" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-History 2
+https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_3_0.m3u8
+
+#EXTINF:-6 ch-number="125" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Cartoon Network
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+#EXTINF:-6 ch-number="126" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-SineManila
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
+
+#EXTINF:-6 ch-number="127" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Jungo Pinoy
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_360p.m3u8
+
+#EXTINF:-6 ch-number="128" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 1
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
+
+#EXTINF:-6 ch-number="129" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 2
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
+
+#EXTINF:-6 ch-number="130" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 3
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
+
+#EXTINF:-6 ch-number="131" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 4
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
+
+#EXTINF:-6 ch-number="132" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 5
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
+
+#EXTINF:-6 ch-number="133" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 6
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
+
+#EXTINF:-6 ch-number="134" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 7
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
+
+#EXTINF:-6 ch-number="135" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 8
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
+
+#EXTINF:-6 ch-number="136" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 9
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
+
+#EXTINF:-6 ch-number="137" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 10
+#EXTVLCOPT:http-referrer=https://pilipinaslive.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Maya's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-7 group-logo=""
+
+#EXTINF:-7 ch-number="138" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-TMC
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230393830373532303039383138:363354494336436b494a776f4a796634
+https://mc-5fythpik4t.bunny.run/97/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="139" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-CGTN
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353336333639353433303837:4474796d43686c745050494735475443
+https://mc-5fythpik4t.bunny.run/75/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="140" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Adult Swim
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
+https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
+
+#EXTINF:-7 ch-number="141" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-YTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+
+#EXTINF:-7 ch-number="142" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Discovery Kids India
+http://181.78.23.26:45000/play/a00h
+
+#EXTINF:-7 ch-number="143" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7 ch-number="144" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Dreamworks HD
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
+#EXTINF:-7 ch-number="145" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Dreamworks {tagalized audio pack}
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
+
+#EXTINF:-7 ch-number="146" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Celestial Movies Pinoy
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
+https://mc-5fythpik4t.bunny.run/30/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="147" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-MTV live
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
+#EXTINF:-7 ch-number="148" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-MTV 90s
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
+#EXTINF:-7 ch-number="149" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-NBC4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#EXTINF:-7 ch-number="150" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-NBC Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-7 ch-number="151" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-BBC News HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+
+#EXTINF:-7 ch-number="152" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Phoenix
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303231353137323537353939:33764c30506679394d3147434276364a
+https://mc-5fythpik4t.bunny.run/60/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="153" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Xingkong
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735313530323932343234353834:4e78417967303934675469456d395157
+https://mc-5fythpik4t.bunny.run/65/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="154" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-VoA {test broadcast}
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+
+#EXTINF:-7 ch-number="155" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Red bull
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-7 ch-number="156" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-PBS Kids asia
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-7 ch-number="157" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Mindanow network
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
+https://mc-5fythpik4t.bunny.run/77/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="158" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-UFC
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+
+#EXTINF:-7 ch-number="159" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-7 ch-number="160" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Blast sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+
+#EXTINF:-7_ ch-number="161" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+
+#EXTINF:-7 ch-number="162" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-MOR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
+https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https://www.iwanttfc.com/
+
+#EXTINF:-7 ch-number="163" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Nick Jr
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233343133343534323335373438:75467735704170524847774a63594361
+https://mc-5fythpik4t.bunny.run/118/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="164" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-FIFA+
+https://339a32f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+#EXTINF:-7 ch-number="165" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Sony One Action HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-7 ch-number="166" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Sony One Comedy HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-7 ch-number="167" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Grjngo Western Movies
+https://ba88b7b66ccf41538723ca539b35c4ce.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_GrjngoWesternMovies/playlist.m3u8
+
+#EXTINF:-7 ch-number="168" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-i Heart movies
+https://raw.githubusercontent.com/bmrhat/track/refs/heads/main/heartofasia.m3u8
+
+#EXTINF:-7 ch-number="169" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Hallypop
+#EXTVLCOPT:http-referrer=https://mc-5fythpik4t.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-5fythpik4t.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233343133343534323335373438:75467735704170524847774a63594361
+https://mc-5fythpik4t.bunny.run/33/dopamine/manifest.mpd
+
+#EXTINF:-7 ch-number="170" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Heart of asia
+https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
+
+#EXTINF:-7 ch-number="171" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Film rise Film movies
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984019&ads.xumo_streamId=99984019&ads.channelId=99984019&ads.ad_tag_id=34963&ads.csid=lgchannels_uk_filmrisefreemovies_ssai&ads.channelName=filmrisefreemovies_uk&ads.xumo_contentName=filmrisefreemovies&ads.xumo_contentId=2071&ads.xumo_providerName=filmrisefreemovies&ads.xumo_providerId=2071&ads.content_category=IAB1-5&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=bbfc-18&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-7 ch-number="172" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Light & love
+https://4e7a7263575046f8a1d1770818e39216.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-gb_SparkleMovies/playlist.m3u8
+
+#EXTINF:-7 ch-number="173" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-7 ch-number="174" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7 ch-number="175" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Leaderboard Sports News
+https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7 ch-number="176" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Masterchef
+https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefuk-samsungph/playlist.m3u8
+
+#EXTINF:-7 ch-number="177" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-World of Love Island
+https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7_ ch-number="178" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-The Hotel Inspector
+https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7_ ch-number="179" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Antiques Road Trip
+https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7_ ch-number="180" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Real Blast
+https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
+
+#EXTINF:-7_ ch-number="181" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Eggheads
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-eggheads-samsunguk/playlist.m3u8
+
+#EXTINF:-7_ ch-number="182" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Ani One
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+
+#EXTINF:-7_ ch-number="183" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+
+#EXTINF:-7_ ch-number="184" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Zee One
+https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7_ ch-number="185" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+
+#EXTINF:-7_ ch-number="186" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
+
+#EXTINF:-7_ ch-number="187" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+
+#EXTINF:-7_ ch-number="188" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
+
+#EXTINF:-7_ ch-number="189" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
+
+#EXTINF:-7_ ch-number="190" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
+
+#EXTINF:-_ ch-number="191" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-River Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7 ch-number="192" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Unsolved Mysterys
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258000/hls/master.m3u8?ads.xumo_channelId=88258000
+
+#EXTINF:-7 ch-number="193" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+
+#EXTINF:-7 ch-number="194" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Pointless by Banijay
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+
+#EXTINF:-7 ch-number="195" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7 ch-number="196" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-7 ch-number="197" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+Radios
+
+#EXTM3U
+
+♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀Ho Salt Females♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀
+
+#EXTINF:-1 group-logo=""
+
+#EXTINF:-8 tvg-logo="" group-title="Ho Salt Females", RD-A-Scream Radio
+https://tunein.cdnstream1.com/3520_96.aac/playlist.m3u8
+
+#EXTINF:-8 tvg-logo="" group-title="Ho Salt Females", RD-A-Clubmix
+https://stream.zeno.fm/d42hdvx96zhvv
+
+#EXTINF:-8 tvg-logo="" group-title="Ho Salt Females", RD-A-Emotions
+https://stream.zeno.fm/03v7z8edgphvv
+
+#EXTINF:-8 tvg-logo="" group-title="Ho Salt Females", RD-A-Hot Hip-Hop N R&B
+https://stream.zeno.fm/qrhuqbnm208uv
+
+#EXTINF:-8 tvg-logo="" group-title="Ho Salt Females", RD-A-iMix
+https://stream.zeno.fm/xnuifxjgpomvv
+
+
+
+♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂Ho Salt Males♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+
+#EXTINF:-1 group-logo=""
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-14.3 Global Online Radio
+http://65.108.124.70:8255/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-15.5 T.L.C.S.P PINOY FM
+https://stream.hornhost.com/8014/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-88.7 Love Music Radio
+http://radio.7lovemusicradio.net:8050/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-89.5 Brigada News FM - DXYM
+http://18.141.67.248:8000/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-89.7 Touch Fm Quezon City radio
+https://stream.hornhost.com/8126/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-90.7 Love Radio Manila
+https://boracayfm.stream.laut.fm/boracayfm
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-91.5 Wows Radio Station
+https://stream.hornhost.com:8022/stream.nsv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-91.9 Radyo Natin - DWSG
+http://stream.radyonatinfm.com:8010/dwsg
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-95.3 Love Radio - DWKS
+https://loveradiodaet.radioca.st/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-96.9 Easy Rock Cagayan de Oro - DXKS
+http://easyrockcagayan.radioca.st:9720/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-97.5 Love Radio Iloilo
+http://loveradio.live24.gr/loveradio-1000
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-98.3 Love Radio Dagupan
+https://loveradiodagupan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-99.1 Love Radio Naga - DWYN
+http://loveradionaga.radioca.st:8070/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-99.3 Yes The Best - DXFE-FM
+http://yesfmiligan.radioca.st:8181/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-100.7 Love Radio Lucena
+https://loveradiolucena.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-101.5 Love Radio
+http://loveradiogensan.radioca.st:8021/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-101.7 Love Radio La Union
+https://loveradiolaunion.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-101.7 Your Love FM radio
+https://chloreign.com/listen/sanibpwersa/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-102.7 YES FM Zamboanga
+http://yesfmzamboanga.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-104.2 MIX LOVER
+https://stream.hornhost.com/8036/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-104.7 Scaf FM
+https://radio1.reans.net/radio/8000/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-104.7 Yes The Best - DXYR
+http://yesfmcdo.radioca.st:8040/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-105.1 Easy Rock Davao
+https://easyrockdavao.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-105.7 Love Radio Roxas
+http://loveradioroxas.radioca.st
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-106.7 Radyo Natin Agoo
+https://pinas.radyonatinfm.com/listen/dwis/agoo
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-201.9 Adzaa Online Radio FM
+https://stream.hornhost.com/8016/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-997 My Friends FM
+http://trappist.shoutca.st:8171/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Anime Alliance Online Radio
+https://s3.citrus3.com:8010/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Atlantis
+https://us2.amfmph.com:8080/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Beat FM 102.9
+https://stream.hornhost.com/8058/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Bespren Radio
+https://streamnavs.net:8089/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-105.5 BiG SOUND fm DWAA -  San Fernando City, La Union, Philippines
+http://162.220.162.10:8011/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Boracay FM
+https://boracayfm.stream.laut.fm/boracayfm?ref=web-app&ampt302=2019-04-09_12-22-23&ampuuid=f6d43b18-d040-49a3-b7af-4ca2f177541a
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Boracay FM laut.fm
+http://boracayfm.stream.laut.fm/boracayfm?ref=vtuner
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Breezylyn FM
+http://178.netromedia.com:8000/BreezeFM
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Brigada News FM Gensan
+http://18.141.67.248:8000/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Cathedral of Praise Bible Radio - DZBR
+http://stream.radio.co/se9de95c10/listen
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-CHRK-DB Manila HD
+http://cheetah.streemlion.com:1730/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Coolfm Rock
+https://mediagw.e-tiger.net/stream/zc10
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Virgin Radio (Christian) Philippines
+https://stream.zeno.fm/q1uwefuf4ceuv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-CyberPinoy Radio
+https://securestreams.autopo.st:1215
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Dance Radio Philippines
+http://us1.amfmph.com:8518/autodj
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Disco House
+https://live.radiospinner.com/disco-house-64
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DWIZ radio
+https://dwizmanila.radioca.st/stream?
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DWMB 95.1 FM Love Radio Baguio
+http://loveradiobaguio.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DXKI Strong Radio 90.3
+http://67.212.238.178:7007/stream.nsv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DYHB RMN Bacolod
+https://us2.amfmph.com:8848/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DYRI
+https://us1.amfmph.com:8011/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DYRN 
+https://io.radyonatinfm.com/listen/dyrn/laoang
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DZBR Bible Radio 531
+https://stream.radio.co/se9de95c10/listen
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-DZRH News AM
+https://streamingv2.shoutcast.com/JamendoLounge
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Easy RocK
+https://easyrockcebu.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Einnz Online Radio
+https://dharkgfx.com/listen/einnz/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Energy
+http://stream.hornhost.com:8109/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Exclusively The Everly Brothers Listen live
+https://streaming.exclusive.radio/er/everlybrothers/icecast.audio
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Favradio
+http://stream.favhosting.com:8109/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Favradio Manila radio
+https://stream.hornhost.com/8109/stream.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-FMR Tagum
+http://de3.amfmph.com:8679/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-FReSH FM PH
+https://s36.radiolize.com/radio/8170/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Green Giant FM
+https://str1.streamhostpg.com.br:8010/stream?1604661148956
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Guimaras Worldwide Radio FM
+https://dharkgfx.com/listen/guimarasworldwidefm/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-guimaraskissfm radio
+https://dharkgfx.com/radio/8010/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Home Radio
+https://hrmanila.radioca.st/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Hot FM 96.3
+https://stream.hornhost.com/8052/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Hugot Radio 2.0
+http://65.108.124.70:8497/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-icprm radio Default Relay
+https://stream.zeno.fm/4prwagzv9s5tv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-ICPRM RADIO Mega Manila Default Relay
+https://stream.zeno.fm/89fuftdzyy5tv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-fImmortalfm
+http://trappist.shoutca.st:8165/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Islamic Radio Filipino Tagalog
+http://104.7.66.64:8009/?icy=http
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-JAKXFM Radio
+https://de3.amfmph.com:8150/stream?time=1519230990208
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Jamz Radio Philippines Default Relay
+https://stream.zeno.fm/yu7rwcq3wy5tv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Kirubai FM - Tamil
+https://lovesantiago.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-
+https://stream.zeno.fm/gdh4m7vsebruv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-KLASSfm 
+https://klassfm.radioca.st
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-
+https://stream.zeno.fm/8w7hpc4gh1duv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-LivingWord.PH iRadio
+http://loveradiobutuan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love FM 98.9
+http://centova57.instainternet.com:8179/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio 95.1 - DXMB
+http://loveradiobutuan.radioca.st:8091/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Bacolod
+http://loveradiobacolod.radioca.st:8088/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Baguio DWMB
+https://loveradiobaguio.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Butuan
+https://loveradiobutuan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Catarman
+http://lovecatarman.radioca.st:8796/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Cebu
+http://loveradiocebu.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Daet
+http://loveradiodaet.radioca.st:8804/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Dagupan
+http://loveradiodagupan.radioca.st:8195/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Legaspi
+http://loveradiolegaspi.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Lucena
+http://loveradiolucena.radioca.st:8158/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Malaybalay
+http://lovemalaybalay.radioca.st:8828/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Naga
+http://loveradionaga.radioca.st:8070/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Palawan
+http://loveradiopalawan.radioca.st:8105/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Roxas
+http://loveradioroxas.radioca.st:8216/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Santiago
+http://lovesantiago.radioca.st:8832/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Tacloban
+http://lovetacloban.radioca.st:8113/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Tacloban DYTM 91.1
+https://lovetacloban.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Tuguegarao
+http://lovetuguegarao.radioca.st:8086/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Zamboanga
+http://lovezamboanga.radioca.st:8157/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radyo Laoag
+http://loveradiolaoag.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-LTM Radio Philippines
+http://cast4.my-control-panel.com:7396/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Manila Bay Beach Radio
+https://s4.radio.co/sd319ba2a4/listen
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Mapua Radio Cardinal
+http://edge.mixlr.com/channel/nhtli
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Memories FM 89.9
+http://s5.reliastream.com:7134/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-MSFM 105.3
+http://209.126.105.44:8219/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Music Tambayan
+https://dharkgfx.com/radio/8000/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-OK-FM 97.5 DZOK-FM
+http://120.28.221.139:8000/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-0 - ONE FM
+http://radio3.reans.net:8030/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Party Rock FM
+https://radio21.streamabc.net/radio21-partyrock-mp3-256-7707367
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-PHR 80.9 FM
+https://djsamu.radioca.st/stream.nsv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Pinoy DJ Radio
+http://usa4.fastcast4u.com:5276/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Pinoy Global Stream Default Relay
+https://stream.zeno.fm/qunkzrt2qvduv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Pinoy Radio - Live, Pop, OPM, Pinoy, Love, Tagalog, CHR, Pilipino, Filipino, Music 
+http://167.114.11.79:16224/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Pinoy Rap Radio
+http://sp2.streams.ovh/8004/stream/stream/1
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-POP Radio
+https://popvip-gecko.radioca.st/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Radio Maria Philippines
+http://dreamsiteradiocp2.com:8052/stream.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RADIO NE FM100 Default Relay
+https://stream.zeno.fm/k2uz08e71ueuv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Radio Tamaraw Online
+http://audiostreamen.nl:8006/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Radyo Bandera Iloilo - DYKU
+http://209.126.124.126:8647/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B
+http://stream.zeno.fm/3ninviiwep8uv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Radyo Magkaisa 98.1 FM
+http://s32.myradiostream.com:7202/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Radyo Natin Pinamalayan radio
+https://sound.radyonatinfm.com/listen/dwmk/pinamalayan
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RainbowFM
+https://rainbowfm2020.radioca.st/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RMN Cebu - DYHP
+http://62.138.18.102:8257/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RMN Iloilo - DYRI
+http://us1.amfmph.com:8011/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RMN Radyo lloilo
+https://us1.amfmph.com:8011/mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Rock109
+http://listen.classicrock109.com:10042/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RPN-DXKS Surigao - DXKS
+http://dxks-rpnradio.radioca.st:8448/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RVFM radio
+https://a3.asurahosting.com:6160/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Sabik FM
+http://nebula.shoutca.st:8334/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Slowly Radio
+https://listen.radioking.com/radio/421816/stream/476452
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Spirit FM 103.9
+https://popvip-gecko.radioca.st/stream/1/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Sunshine FM Radio
+https://23203.live.streamtheworld.com/4SFM_SC
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Supreme Radio 99.7 FM
+https://stream.hornhost.com/8046/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Virgin Radio (RnB)Philippines
+https://stream.zeno.fm/4uvhk732g9duv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-TPPFM
+http://streamnavs.net:8143/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Troy FM
+https://live.streamguys1.com:2385/troy1
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-True Life In God Radio Filipino
+https://stream.tligradio.org/listen/filipino/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Uragon Hot Radio 99.8
+https://eu10.fastcast4u.com/uragon98
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-VHive
+http://192.99.8.192:3154/www.vhiveradio.com/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Vine Radio 88.9
+http://cast2.my-control-panel.com:8091
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-WILD HEART FM 97.1
+https://eu10.fastcast4u.com/wildheart
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Wows Radio Station 91.5
+https://stream.hornhost.com/8022/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-XFM 96.7 Bacolod
+http://209.126.124.126:8684/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes FM - Boracay
+http://yesfmboracay.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes FM Dagupan 106.3
+http://chandra.shoutca.st:10300/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes The Best 91.5
+https://yesfmcebu.radioca.st/stream.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes The Best Dagupan - DWHR
+http://yesfmdagupan.radioca.st:10300/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes The Best Urdaneta - DZVM
+http://yesfmurdaneta.radioca.st:8258/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes! The Best Cagayan De Oro
+http://yesfmcdo.radioca.st:8040/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-YES! The Best Cebu 91.5
+https://yesfmcebu.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-YES! The Best Dagupan 106.3
+https://yesfmdagupan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes! The Best Dumaguete - DYYD
+http://yesfmdumaguete.radioca.st:8406/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-YES! The Best Iligan 99.3
+https://yesfmiligan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-YES! The Best Valencia 104.1
+https://yesfmvalencia.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Yes! The Best Valencia - DXAT
+http://yesfmvalencia.radioca.st:8231/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-ZNS Pinoy Online Radio
+https://fast.citrus3.com:8484/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-zRadio
+http://streamnavs.net:8091/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Rage Music Philippines
+https://stream.zeno.fm/yu9dryfs7x8uv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Vibe Radio
+https://stream.zeno.fm/zf0ac4raqy8uv
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-91.9 Radyo Natin - DWSG
+http://stream.radyonatinfm.com:8010/dwsg
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-92.3 Easy Rock Iloilo 
+https://easyrockiloilo.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-93.5 Easy Rock Boracay 
+https://easyrockboracay.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-97.5 Love Radio Iloilo
+http://loveradio.live24.gr/loveradio-1000
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-97.7 Love Radio Tarlac 
+http://loveradiotarlac.radioca.st
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-99.1 Love Radio Naga - DWYN
+http://loveradionaga.radioca.st:8070/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-99.3 Yes The Best - DXFE-FM
+http://yesfmiligan.radioca.st:8181/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-101.5 Love Radio 
+http://loveradiogensan.radioca.st:8021/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-101.7 Love Radio La Union 
+https://loveradiolaunion.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-101.7 Your Love FM radio
+https://chloreign.com/listen/sanibpwersa/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-102.7 YES FM Zamboanga
+http://yesfmzamboanga.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-104.7 Scaf FM 
+https://radio1.reans.net/radio/8000/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-997 My Friends FM
+http://trappist.shoutca.st:8171/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Breezylyn FM
+http://178.netromedia.com:8000/BreezeFM
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-CHRK-DB Manila (HD) 
+http://cheetah.streemlion.com:1730/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Disco House 
+https://live.radiospinner.com/disco-house-64
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Dxki Strong Radio 90.3
+http://67.212.238.178:7007/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Hugot Radio 2.0
+http://65.108.124.70:8497/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Immortalfm
+http://trappist.shoutca.st:8165/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Islamic Radio Filipino Tagalog 
+http://104.7.66.64:8009/?icy=http
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-JAKXFM Radio 
+https://de3.amfmph.com:8150/stream?time=1519230990208
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Love Radio Tarlac
+http://loveradiotarlac.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-MystFM925
+http://eu8.fastcast4u.com:21123/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Pinoy Rap Radio
+http://sp2.streams.ovh/8004/stream/stream/1
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Radyo Natin - Pinamalayan radio
+https://sound.radyonatinfm.com/listen/dwmk/pinamalayan
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-RMN Cebu - DYHP
+http://62.138.18.102:8257/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Rock109
+http://listen.classicrock109.com:10042/
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-TPPFM 
+http://streamnavs.net:8143/live
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Uragon Hot Radio 99.8
+https://eu10.fastcast4u.com/uragon98
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-VHive
+http://192.99.8.192:3154/www.vhiveradio.com/
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-
+
+==================================================Radois==================================================
+
+#EXTINF:-1 group-logo=""
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-87.5 Republika ni Juan
+https://stream.zeno.fm/qnt98p5m108uv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-89.1 AWR Manila
+http://192.53.113.120:8000/stream?type=.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-89.9 Magic
+https://stream.zeno.fm/sh37pvfd938uv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-90.7 Love Radio
+https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-91.5 Win Radio
+https://stream.zeno.fm/nz4ydgnu6hhvv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-92.3 FM RADIO Manila
+http://us1.amfmph.com:8872/stream?type=.aac
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-93.1 Monster Radio RX 
+https://in-icecast.eradioportal.com:8443/monsterrrx
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-95.5 Eagle FM
+http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-96.3 Easy Rock
+https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-97.9 Home Radio
+https://hrmanila.radioca.st/stream
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-98.7 The Master's Touch
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-100.3 RJ FM
+https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-101.1 Yes Fm
+https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-102.7 Star FM
+https://stream.zeno.fm/69b1kf7q0y5tv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-103.5 All Radio
+http://103.36.17.18:8000/stream
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-104.3 The Capital
+http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-106.7 Energy FM
+http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
+https://radio.wish1075.com/web/stream/wish.m3u8
+
+
