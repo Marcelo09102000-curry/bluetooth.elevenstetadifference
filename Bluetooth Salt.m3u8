@@ -660,7 +660,6 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-5 group-logo=""
 
 #EXTINF:-5 ch-number="77" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-TLC
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/08PRNMO.png" ,TLC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2042,7 +2041,7 @@ https://eu10.fastcast4u.com/uragon98
 #EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-VHive
 http://192.99.8.192:3154/www.vhiveradio.com/
 
-#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-
+
 
 ==================================================Radois==================================================
 
@@ -2101,6 +2100,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
