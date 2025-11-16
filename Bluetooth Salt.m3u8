@@ -2,7 +2,7 @@ Bluetooth Salt
 
 #EXTM3U billed-msg="BT Salt"
 
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/sky_epg.xml.gz, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
 
 TV
 
