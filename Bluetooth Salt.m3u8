@@ -97,14 +97,14 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 #KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
 https://mc-uzug41ou65.bunny.run/12/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-2 ch-number="11" group-title="Curry's TV" tvg-id="_" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/TVUP%20Logo%20.png", TV2-TVUP
+#EXTINF:-2 ch-number="11" group-title="Curry's TV" tvg-id="_" tvg-name="" tvg-logo="", TV2-A2Z Backup
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
 #EXTINF:-2 ch-number="12" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/18/a2/5f/18a25fba4d22c64e6c65d0ecfa71325b.jpg", TV2-oneXplore
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -352,15 +352,15 @@ https://ln.run/4x0dD
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 https://mc-uzug41ou65.bunny.run/15/dopamine/manifest.mpd?AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
 
-#EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mindanow_Network_logo.png/revision/latest?cb=20250715022837", TV3-Mindanow Network
+#EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV3-Fashion TV
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreambufferspeed=skip.buffering
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
-https://mc-uzug41ou65.bunny.run/77/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
+https://mc-uzug41ou65.bunny.run/45/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="41" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737", TV3-One Sports
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -1317,8 +1317,14 @@ https://mc-uzug41ou65.bunny.run/77/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTINF:-7 ch-number="158" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-UFC
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
-#EXTINF:-7 ch-number="159" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Blast Movies
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF:-7 ch-number="159" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-TVup
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 
 #EXTINF:-7 ch-number="160" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Blast sports
 https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
@@ -2103,6 +2109,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
