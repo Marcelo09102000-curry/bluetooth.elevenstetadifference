@@ -97,7 +97,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 #KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
 https://mc-uzug41ou65.bunny.run/12/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-2 ch-number="11" group-title="Curry's TV" tvg-id="_" tvg-name="" tvg-logo="", TV2-A2Z Backup
+#EXTINF:-2 ch-number="11" group-title="Curry's TV" tvg-id="_" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b7/A2Z_Channel_11_Silver_Logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20241216140253", TV2-A2Z channel 11
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -352,7 +352,7 @@ https://ln.run/4x0dD
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 https://mc-uzug41ou65.bunny.run/15/dopamine/manifest.mpd?AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
 
-#EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV3-Fashion TV
+#EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/960px-Fashion_TV_logo_2017.svg.png", TV3-Fashion TV
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreambufferspeed=skip.buffering
@@ -2109,6 +2109,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
