@@ -348,7 +348,7 @@ https://ln.run/4x0dD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
+https://mc-uzug41ou65.bunny.run/15/manifest.mpd?AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
 
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Mindanow Network
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
@@ -2100,6 +2100,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
