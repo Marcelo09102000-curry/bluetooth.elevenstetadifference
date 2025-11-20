@@ -342,8 +342,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 https://ln.run/4x0dD
 
 #EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Kapamilya channel HD
-#EXTVLCOPT:http-referrer=https://136.239.159.18:6610/widevine/?deviceId=02:00:00:00:00:00
-#EXTVLCOPT:http-origin=https://136.239.159.18:6610/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-referrer=http://136.239.159.18:6610/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=http://136.239.159.18:6610/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
