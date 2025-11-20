@@ -169,7 +169,7 @@ https://mc-uzug41ou65.bunny.run/13/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-2 ch-number="19" group-title="Curry's TV" tvg-id="rptv.cignal" tvg-name="rptv.cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/960px-RPTV_%282024%29.svg.png", TV2-RPTV (RPN)
+#EXTINF:-2 ch-number="19" group-title="Curry's TV" tvg-id="rptv.cignal" tvg-name="rptv.cignal" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/6c/RPTV_Para_sa_Pinoy%21_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240615003524", TV2-RPTV (RPN)
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -183,7 +183,7 @@ https://mc-uzug41ou65.bunny.run/9/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQ
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Sig's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-3 group-logo="https://i.pinimg.com/736x/f2/88/74/f28874a460ebb72b4cf1bc358c12270f.jpg"
 
-#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="A2Z.ph" tvg-name="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png", TV3-A2Z
+#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="A2Z.ph" tvg-name="A2Z.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2109,6 +2109,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
