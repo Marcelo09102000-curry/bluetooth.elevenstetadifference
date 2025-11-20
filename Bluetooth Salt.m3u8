@@ -96,7 +96,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 #KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
 https://mc-uzug41ou65.bunny.run/12/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-2 ch-number="11" group-title="Curry's TV" tvg-id="_" tvg-name="https://yt3.googleusercontent.com/ytc/AIdro_larYrBvAuOtOWBeo4pdrTFwfcbgMC4_xK4KXb3I4c-F3M=s160-c-k-c0x00ffffff-no-rj" tvg-logo="", TV2-TVUP
+#EXTINF:-2 ch-number="11" group-title="Curry's TV" tvg-id="_" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/TVUP%20Logo%20.png", TV2-TVUP
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -348,7 +348,7 @@ https://ln.run/4x0dD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-http://161.49.17.2:6610/001/2/ch00000090990000001286/mainfest.mpd?/AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
+http://136.239.158.30:6610/001/2/ch00000090990000001286/mainfest.mpd?AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
 
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-Mindanow Network
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
@@ -2100,6 +2100,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
