@@ -51,7 +51,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mp
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
@@ -83,7 +83,7 @@ https://mc-uzug41ou65.bunny.run/22/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
@@ -101,7 +101,7 @@ https://mc-uzug41ou65.bunny.run/12/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 
@@ -205,7 +205,7 @@ https://mc-uzug41ou65.bunny.run/127/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-grp-02-prod.akamaized.net/bpk-tv/cg_ppv_main_hd/default/index.mpd
 
@@ -232,7 +232,7 @@ https://mc-uzug41ou65.bunny.run/40/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
@@ -280,7 +280,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index.mpd
 
@@ -289,7 +289,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
@@ -307,7 +307,7 @@ https://mc-uzug41ou65.bunny.run/88/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
@@ -316,7 +316,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
@@ -334,7 +334,7 @@ https://mc-uzug41ou65.bunny.run/71/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
@@ -346,7 +346,7 @@ https://ln.run/4x0dD
 #EXTVLCOPT:http-origin=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 http://161.49.17.2:6610/001/2/ch00000090990000001286//manifest.mpd?/AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
 
@@ -364,7 +364,7 @@ https://mc-uzug41ou65.bunny.run/77/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
@@ -373,7 +373,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
 
@@ -409,7 +409,7 @@ https://mc-uzug41ou65.bunny.run/44/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032313231:6b5058557254355845335a6e63737030
 https://mc-uzug41ou65.bunny.run/28/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -447,7 +447,7 @@ https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
@@ -464,14 +464,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
 
 #EXTINF:-4 ch-number="54" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
@@ -490,7 +490,7 @@ https://mc-uzug41ou65.bunny.run/10/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
@@ -502,14 +502,14 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-4 ch-number="59" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Jeepney TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
 https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -539,7 +539,7 @@ https://mc-uzug41ou65.bunny.run/49/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
@@ -584,7 +584,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1325/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
@@ -604,7 +604,7 @@ https://mc-uzug41ou65.bunny.run/35/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323330323736303433313938:6774487273654e4b313631333258706f
-https://mc-uzug41ou65.bunny.run/xx/dopamine1194/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+https://mc-uzug41ou65.bunny.run/67/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="71" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Oras ng himala
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
@@ -622,16 +622,16 @@ https://mc-uzug41ou65.bunny.run/129/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363639393633373136353837383139:767561696f37546667306c7366623536
-https://mc-uzug41ou65.bunny.run/xx/dopamine1313/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+https://mc-uzug41ou65.bunny.run/72/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="73" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Global Trekker
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323330363939303433353236:49644937557a3231706c733955343152
-https://mc-uzug41ou65.bunny.run/xx/dopamine1203/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+https://mc-uzug41ou65.bunny.run/xx/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="74" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-France 24
 #EXTVLCOPT:http-referrer=https://mc-uzug41ou65.bunny.run/license
@@ -647,7 +647,7 @@ https://mc-uzug41ou65.bunny.run/136/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
@@ -672,7 +672,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232373836323139373230313339:4c6641384b484e334734496479725669
 https://mc-uzug41ou65.bunny.run/69/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -680,7 +680,7 @@ https://mc-uzug41ou65.bunny.run/69/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
 https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 
@@ -701,7 +701,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1098/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336313933353432383534:51313339385a5a446a454c3132646b63
 https://mc-uzug41ou65.bunny.run/73/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -710,7 +710,7 @@ https://mc-uzug41ou65.bunny.run/73/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323330383739303433373435:74754b633331334537757a3533545a35
 https://mc-uzug41ou65.bunny.run/120/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -719,7 +719,7 @@ https://mc-uzug41ou65.bunny.run/120/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331313938313138383033383733:395334474d7735663579353235453534
 https://mc-uzug41ou65.bunny.run/87/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -737,7 +737,7 @@ https://mc-uzug41ou65.bunny.run/19/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233303438363730383939353239:356c3450446f61674435646b36563675
 https://mc-uzug41ou65.bunny.run/xx/dopamine1158/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -746,7 +746,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1158/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363539343235323739323938313334:6134384c356c5050327331636b544734
 https://mc-uzug41ou65.bunny.run/98/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -755,7 +755,7 @@ https://mc-uzug41ou65.bunny.run/98/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363539343235333939333035383832:5446354a4a514956636567484b47317a
 https://mc-uzug41ou65.bunny.run/99/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -764,7 +764,7 @@ https://mc-uzug41ou65.bunny.run/99/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353337313135353433363839:7573536e79344f796e746c324b695133
 https://mc-uzug41ou65.bunny.run/48/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -773,7 +773,7 @@ https://mc-uzug41ou65.bunny.run/48/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353337323935353433383639:696d305237483130677335756d643933
 https://mc-uzug41ou65.bunny.run/58/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -782,7 +782,7 @@ https://mc-uzug41ou65.bunny.run/58/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331313938383834383134323536:387938463676644f7141503474507435
 https://mc-uzug41ou65.bunny.run/xx/dopamine1245/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -791,7 +791,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1245/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313130313238323933363838:3243794139594e6435434b517a497070
 https://mc-uzug41ou65.bunny.run/105/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -800,7 +800,7 @@ https://mc-uzug41ou65.bunny.run/105/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313130333638323933383631:7031306148395845396e32374369485a
 https://mc-uzug41ou65.bunny.run/122/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -809,7 +809,7 @@ https://mc-uzug41ou65.bunny.run/122/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233383335303430363337303331:4444313067453278686a4b6b7030494b
 https://mc-uzug41ou65.bunny.run/113/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -818,7 +818,7 @@ https://mc-uzug41ou65.bunny.run/113/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323637303030383735:304d384b45573249714d6b7569675837
 https://mc-uzug41ou65.bunny.run/xx/dopamine1074/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -827,7 +827,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1074/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313438303733343030323238:6e34314e394e4165743931496a394b74
 https://mc-uzug41ou65.bunny.run/xx/dopamine1334/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -836,7 +836,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1334/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313536373634343534323132:71504433773565593837796d68613333
 https://mc-uzug41ou65.bunny.run/xx/dopamine1342/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -845,7 +845,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1342/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303230363630323536393533:4231724f6a50387230485673326c3233
 https://mc-uzug41ou65.bunny.run/75/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -854,7 +854,7 @@ https://mc-uzug41ou65.bunny.run/75/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393339333834323333353038:756a7351733939554668654a79633372
 https://mc-uzug41ou65.bunny.run/24/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -863,7 +863,7 @@ https://mc-uzug41ou65.bunny.run/24/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323239333936303432333530:4a766738536670314f52384c34783535
 https://mc-uzug41ou65.bunny.run/xx/dopamine1162/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -872,7 +872,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1162/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343133303337323335353239:327939373658545a37317536686b3146
 https://mc-uzug41ou65.bunny.run/67/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -881,7 +881,7 @@ https://mc-uzug41ou65.bunny.run/67/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313439343038343136333130:386c6b6a64704d4d3039354d4e6a6933
 https://mc-uzug41ou65.bunny.run/xx/dopamine1335/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -890,7 +890,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1335/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353335353435353432363238:684b3276585a37386130763047346a54
 https://mc-uzug41ou65.bunny.run/xx/dopamine1144/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -899,7 +899,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1144/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313439373730343234313334:6f486349336753304d6b696733463235
 https://mc-uzug41ou65.bunny.run/79/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -908,7 +908,7 @@ https://mc-uzug41ou65.bunny.run/79/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343132303338323235353437:78347a4839653239344566736f326963
 https://mc-uzug41ou65.bunny.run/66/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -917,7 +917,7 @@ https://mc-uzug41ou65.bunny.run/66/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233333132393535313230333633:4e62694d463832326130536673695246
 https://mc-uzug41ou65.bunny.run/115/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -931,7 +931,7 @@ https://mc-uzug41ou65.bunny.run/115/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331313938333434383133383337:32776734365267686977387049356d48
 https://mc-uzug41ou65.bunny.run/90/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -940,7 +940,7 @@ https://mc-uzug41ou65.bunny.run/90/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331313938353234383134303633:3669754977303668394e493367344773
 https://mc-uzug41ou65.bunny.run/47/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -949,7 +949,7 @@ https://mc-uzug41ou65.bunny.run/47/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234383633343838373039333431:3838505141446f42397a723234697541
 https://mc-uzug41ou65.bunny.run/xx/dopamine1166/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
@@ -958,7 +958,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1166/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
 
@@ -967,7 +967,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mp
 #EXTVLCOPT:http-origin=https://cignalplay.com
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
@@ -976,7 +976,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 #EXTVLCOPT:http-origin=http://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
@@ -1012,7 +1012,7 @@ https://mc-uzug41ou65.bunny.run/xx/dopamine1148/manifest.mpd?AuthInfo=XGxWp4Rw7a
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
 
@@ -1075,7 +1075,7 @@ https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
@@ -1194,7 +1194,7 @@ https://mc-uzug41ou65.bunny.run/97/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336333639353433303837:4474796d43686c745050494735475443
 https://mc-uzug41ou65.bunny.run/75/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -1223,7 +1223,7 @@ https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
@@ -1232,7 +1232,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
 
@@ -1247,13 +1247,13 @@ https://mc-uzug41ou65.bunny.run/30/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 
 #EXTINF:-7 ch-number="147" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-MTV live
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 #EXTINF:-7 ch-number="148" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-MTV 90s
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
@@ -1280,7 +1280,7 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303231353137323537353939:33764c30506679394d3147434276364a
 https://mc-uzug41ou65.bunny.run/60/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -1289,7 +1289,7 @@ https://mc-uzug41ou65.bunny.run/60/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTVLCOPT:http-origin=https://mc-uzug41ou65.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313530323932343234353834:4e78417967303934675469456d395157
 https://mc-uzug41ou65.bunny.run/65/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
@@ -1324,7 +1324,7 @@ https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
 
 #EXTINF:-7 ch-number="162" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-MOR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
 https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com|Referer=https://www.iwanttfc.com/
 
@@ -2100,6 +2100,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
