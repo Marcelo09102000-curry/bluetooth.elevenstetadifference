@@ -342,13 +342,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 https://ln.run/4x0dD
 
 #EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV3-Kapamilya channel HD
-#EXTVLCOPT:http-referrerhttps://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=hls.to.dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://mc-h74zm2yvk9.bunny.run/15/dopamine/mainfest.mpd?AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/d01d396d-7d78-4733-9f71-34a35938a7f3/index.mpd
 
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV3-Fashion TV
 #EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
@@ -2106,6 +2100,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
