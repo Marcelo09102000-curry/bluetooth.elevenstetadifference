@@ -345,7 +345,7 @@ https://ln.run/4x0dD
 #EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV3-Kapamilya channel HD
 #EXTVLCOPT:http-referrerhttps://mc-h74zm2yvk9.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
-#KODIPROP:inputstreambufferspeed=skip.buffering
+#KODIPROP:inputstreambufferingtime=30minutes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2109,6 +2109,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
