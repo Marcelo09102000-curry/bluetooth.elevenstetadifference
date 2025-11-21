@@ -56,11 +56,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mp
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
 #EXTINF:-1 ch-number="7" group-title="Half's TV" tvg-id="anc.click" tvg-name="anc.click" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/52/ANC_HD_Logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20250529143456", TV1-ANC HD Philippines
-#KODIPROP:inputstreambufferspeed=skip.buffering
 #EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
+#KODIPROP:inputstream.adaptive.mainfest_type=hls.to.dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234353837393638333931313738:335a493259306157495a557356494b44
 https://mc-h74zm2yvk9.bunny.run/43/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
@@ -346,7 +345,7 @@ https://ln.run/4x0dD
 #EXTVLCOPT:http-referrerhttps://mc-h74zm2yvk9.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=smooth.dash
+#KODIPROP:inputstream.adaptive.mainfest_type=hls.to.dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 https://mc-h74zm2yvk9.bunny.run/15/dopamine/mainfest.mpd?AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
@@ -354,9 +353,8 @@ https://mc-h74zm2yvk9.bunny.run/15/dopamine/mainfest.mpd?AuthInfo=d85e93&virtual
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV3-Fashion TV
 #EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
-#KODIPROP:inputstreambufferspeed=skip.buffering
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
+#KODIPROP:inputstream.adaptive.mainfest_type=hls.to.dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
 https://mc-h74zm2yvk9.bunny.run/45/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
@@ -2108,6 +2106,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
