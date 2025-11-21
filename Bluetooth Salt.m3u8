@@ -395,7 +395,7 @@ https://mc-h74zm2yvk9.bunny.run/94/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
 https://mc-h74zm2yvk9.bunny.run/8/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-3 ch-number="45" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-GNN
+#EXTINF:-3 ch-number="45" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/GNN_Logo_2025.png", TV3-GNN
 #EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
 #EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2106,6 +2106,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
