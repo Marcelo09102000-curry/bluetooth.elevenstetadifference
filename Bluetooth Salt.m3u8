@@ -72,12 +72,12 @@ https://mc-uzug41ou65.bunny.run/43/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 
 #EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-The Manila Hotel
 #EXTVLCOPT:http-referrer=http://213.78.158.136:6610/widevine/?deviceId=02:00:00:00:00:00
-#EXTVLCOPT:http-origin=http://213.78.158.136:6610/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=http://143.44.136.74:6610/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234383632393339373032363235:6d48695652315a7766774b4844783439
-http://213.78.158.136:6610/001/2/ch00000090990000001208/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
+http://136.158.78.213:6610/001/2/ch00000090990000001208/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-2 ch-number="9" group-title="Curry's TV" tvg-id="animax.cignal" tvg-name="animax.cignal" tvg-logo="https://i.imgur.com/MiUDLVa.png", TV2-AnimaX
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -2109,6 +2109,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
