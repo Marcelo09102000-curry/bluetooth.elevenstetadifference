@@ -71,8 +71,8 @@ https://mc-uzug41ou65.bunny.run/43/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 #EXTINF:-2 group-logo="https://i.pinimg.com/736x/89/9c/0d/899c0de9c7dd07a91c6578e325198619.jpg"
 
 #EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-The Manila Hotel
-#EXTVLCOPT:http-referrer=http://213.78.158.136/widevine/?deviceId=02:00:00:00:00:00
-#EXTVLCOPT:http-origin=http://213.78.158.136/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-referrer=http://213.78.158.136:6610/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=http://213.78.158.136:6610/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2109,6 +2109,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
