@@ -137,7 +137,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.m
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-https://converse.nathcreqtives.com/1093/mainfest.mpd
+https://converse.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231102358", TV2-Alltv2
 #EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
@@ -344,7 +344,7 @@ https://ln.run/4x0dD
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://converse.nathcreqtives.com/1286/mainfest.mpd
+https://converse.nathcreqtives.com/1286/manifest.mpd
 
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV3-Fashion TV
 #EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
@@ -2108,6 +2108,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
