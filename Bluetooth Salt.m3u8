@@ -29,8 +29,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 ch-number="4" group-title="Half's TV" tvg-id="bilyonaryoch.cignal" tvg-name="bilyonaryoch" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Img_1_1756009833117.jpg/revision/latest?cb=20250824043538", TV1-BNC HD
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -56,8 +56,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mp
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
 #EXTINF:-1 ch-number="7" group-title="Half's TV" tvg-id="anc.click" tvg-name="anc" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/52/ANC_HD_Logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20250529143456", TV1-ANC HD Philippines
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=hls.to.dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -88,8 +88,8 @@ http://161.49.17.2:6610/001/2/ch00000090990000001208/mainfest.mpd?AuthInfo=XGxWp
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
 #EXTINF:-2 ch-number="10" group-title="Curry's TV" tvg-id="knowledge_channel.cignal" tvg-name="knowledge_channel" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png", TV2-Knowledge channel
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -115,8 +115,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
 
 #EXTINF:-2 ch-number="13" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV2-Congress TV
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -133,17 +133,17 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd
 
 #EXTINF:-2 ch-number="15" group-title="Curry's TV" tvg-id="gma.click" tvg-name="gma" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e2/GMA_2024_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250606135406", TV2-GMA
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-https://mc-h74zm2yvk9.bunny.run/7/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
+https://converse.nathcreqtives.com/1093/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231102358", TV2-Alltv2
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -151,8 +151,8 @@ https://mc-h74zm2yvk9.bunny.run/7/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQ
 https://mc-h74zm2yvk9.bunny.run/55/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-2 ch-number="17" group-title="Curry's TV" tvg-id="ibc-tv-13.click" tvg-name="ibc-tv-13" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/4/45/IBC_13_Logo.png/revision/latest?cb=20190202034558", TV2-iBC HD
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -169,8 +169,8 @@ https://mc-h74zm2yvk9.bunny.run/13/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
 #EXTINF:-2 ch-number="19" group-title="Curry's TV" tvg-id="rptv.cignal" tvg-name="rptv" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/6c/RPTV_Para_sa_Pinoy%21_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240615003524", TV2-RPTV (RPN)
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -183,8 +183,8 @@ https://mc-h74zm2yvk9.bunny.run/9/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQ
 #EXTINF:-3 group-logo="https://i.pinimg.com/736x/f2/88/74/f28874a460ebb72b4cf1bc358c12270f.jpg"
 
 #EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="A2Z.ph" tvg-name="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -192,8 +192,8 @@ https://mc-h74zm2yvk9.bunny.run/9/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQ
 https://mc-h74zm2yvk9.bunny.run/27/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="21" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png", TV3-SolarFlix
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -210,8 +210,8 @@ https://mc-h74zm2yvk9.bunny.run/127/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://qp-pldt-live-grp-02-prod.akamaized.net/bpk-tv/cg_ppv_main_hd/default/index.mpd
 
 #EXTINF:-3 ch-number="23" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png", TV3-Aliw
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -219,8 +219,8 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/bpk-tv/cg_ppv_main_hd/default/ind
 https://mc-h74zm2yvk9.bunny.run/29/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="24" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png", TV3-DZRH
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -228,8 +228,8 @@ https://mc-h74zm2yvk9.bunny.run/29/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/40/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="25" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122", TV3-HBO
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -237,8 +237,8 @@ https://mc-h74zm2yvk9.bunny.run/40/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
 #EXTINF:-3 ch-number="26" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TV_MARIA_PH.png/revision/latest?cb=20200421061144", TV3-TV Maria
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -246,8 +246,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 https://mc-h74zm2yvk9.bunny.run/131/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="27" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png", TV3-Gtv
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -255,8 +255,8 @@ https://mc-h74zm2yvk9.bunny.run/131/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/11/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="28" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png", TV3-NET25
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -264,8 +264,8 @@ https://mc-h74zm2yvk9.bunny.run/11/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/17/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="29" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png", TV3-RJ digiTV
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -294,8 +294,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 #EXTINF:-3 ch-number="33" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png", TV3-Light TV (Gods channel of blessings)
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -321,8 +321,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
 #EXTINF:-3 ch-number="36" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CLTV36_logo_2020.png/revision/latest?cb=20210614025353", TV3-Central Luzon Television Incorporated
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -349,8 +349,8 @@ https://ln.run/4x0dD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV3-Fashion TV
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=hls.to.dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -376,8 +376,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
 
 #EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png", TV3-CineMo!
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -385,8 +385,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.
 https://mc-h74zm2yvk9.bunny.run/94/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="44" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/61fHpnW.png", TV3-PBO
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -394,8 +394,8 @@ https://mc-h74zm2yvk9.bunny.run/94/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/8/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="45" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/GNN_Logo_2025.png", TV3-GNN
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -403,8 +403,8 @@ https://mc-h74zm2yvk9.bunny.run/8/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQ
 https://mc-h74zm2yvk9.bunny.run/44/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 ch-number="46" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png", TV3-CNN International
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -420,8 +420,8 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-4 group-logo="https://i.pinimg.com/736x/9b/e7/16/9be716b48fe814f6d8f8a8b1490db73d.jpg"
 
 #EXTINF:-4 ch-number="48" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Solar Sports
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -429,8 +429,8 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 https://mc-h74zm2yvk9.bunny.run/56/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="49" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-INCTV
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -475,8 +475,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.m
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-4 ch-number="55" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-UNTV
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -512,8 +512,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 https://abslive.akamaized.net/dash/live/2028025/jeepneytv/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="60" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Lifetime
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -524,8 +524,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1075/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/b968b2b6-b245-11f0-84ec-be1bcda50f3d/21/1920x1080_5130400/index.m3u8
 
 #EXTINF:-4 ch-number="62" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Metro channel
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -542,8 +542,8 @@ https://mc-h74zm2yvk9.bunny.run/49/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 #EXTINF:-4 ch-number="64" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-ABC Australia
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -551,8 +551,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 https://mc-h74zm2yvk9.bunny.run/78/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="65" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-EWTN
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -560,8 +560,8 @@ https://mc-h74zm2yvk9.bunny.run/78/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/20/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="66" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVe
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -569,8 +569,8 @@ https://mc-h74zm2yvk9.bunny.run/20/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/70/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="67" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Rock action
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -587,8 +587,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1325/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-4 ch-number="69" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-CCTV4
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -596,8 +596,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 https://mc-h74zm2yvk9.bunny.run/35/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="70" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Discovery channel
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -605,8 +605,8 @@ https://mc-h74zm2yvk9.bunny.run/35/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/67/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="71" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Oras ng himala
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -614,8 +614,8 @@ https://mc-h74zm2yvk9.bunny.run/67/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/129/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="72" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Nickelodeon
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -623,8 +623,8 @@ https://mc-h74zm2yvk9.bunny.run/129/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/72/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="73" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Global Trekker
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -632,8 +632,8 @@ https://mc-h74zm2yvk9.bunny.run/72/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 ch-number="74" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-France 24
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -666,8 +666,8 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 #EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Monde asie
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -686,8 +686,8 @@ https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 http://45.173.75.4:2061/play/a09u
 
 #EXTINF:-5 ch-number="81" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Pinoy extreme
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -695,8 +695,8 @@ http://45.173.75.4:2061/play/a09u
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1098/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="82" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-NHK World Japan
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -704,8 +704,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1098/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/73/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="83" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Lotus Macao
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -713,8 +713,8 @@ https://mc-h74zm2yvk9.bunny.run/73/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/120/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="84" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Celestial Classic Movies
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -722,8 +722,8 @@ https://mc-h74zm2yvk9.bunny.run/120/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/87/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="85" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-CinemaOne
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -731,8 +731,8 @@ https://mc-h74zm2yvk9.bunny.run/87/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/19/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="86" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-CinemaWorld
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -740,8 +740,8 @@ https://mc-h74zm2yvk9.bunny.run/19/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1158/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="87" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap movies
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -749,8 +749,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1158/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/98/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="88" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap action movies
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -758,8 +758,8 @@ https://mc-h74zm2yvk9.bunny.run/98/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/99/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="89" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap TV
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -767,8 +767,8 @@ https://mc-h74zm2yvk9.bunny.run/99/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/48/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="90" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Tap edge
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -776,8 +776,8 @@ https://mc-h74zm2yvk9.bunny.run/48/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/58/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="91" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Motor Vision+
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -785,8 +785,8 @@ https://mc-h74zm2yvk9.bunny.run/58/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1245/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="92" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Premier football
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -794,8 +794,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1245/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/105/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="93" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Premier sports
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -803,8 +803,8 @@ https://mc-h74zm2yvk9.bunny.run/105/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/122/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="94" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Premier sports 2
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -812,8 +812,8 @@ https://mc-h74zm2yvk9.bunny.run/122/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/113/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="95" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-History
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -821,8 +821,8 @@ https://mc-h74zm2yvk9.bunny.run/113/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1074/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="96" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Discovery asia
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -830,8 +830,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1074/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1334/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="97" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Asian Food Network
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -839,8 +839,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1334/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1342/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="98" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-CGTN documentary
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -848,8 +848,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1342/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/75/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="99" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Channel News Asia
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -857,8 +857,8 @@ https://mc-h74zm2yvk9.bunny.run/75/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/24/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="100" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-HGTV
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -866,8 +866,8 @@ https://mc-h74zm2yvk9.bunny.run/24/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1162/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="101" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-NHK B5
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -875,8 +875,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1162/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/67/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="102" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Animal Planet
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -884,8 +884,8 @@ https://mc-h74zm2yvk9.bunny.run/67/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1335/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="103" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Crime & Investigation
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -893,8 +893,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1335/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1144/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="104" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Al Jazeera
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -902,8 +902,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1144/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://mc-h74zm2yvk9.bunny.run/79/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="105" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-BS Premium
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -911,8 +911,8 @@ https://mc-h74zm2yvk9.bunny.run/79/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/66/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 ch-number="106" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-USA Today
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -925,8 +925,8 @@ https://mc-h74zm2yvk9.bunny.run/115/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 #EXTINF:-6 group-logo="https://i.pinimg.com/736x/0d/9b/cf/0d9bcfb06835951b0b81a8e67c1bd64b.jpg"
 
 #EXTINF:-6 ch-number="107" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Thrill
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -934,8 +934,8 @@ https://mc-h74zm2yvk9.bunny.run/115/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/90/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="108" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Kix
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -943,8 +943,8 @@ https://mc-h74zm2yvk9.bunny.run/90/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/47/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="109" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DW News
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -979,8 +979,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
 #EXTINF:-6 ch-number="113" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PBO
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -988,8 +988,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 https://mc-h74zm2yvk9.bunny.run/8/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="114" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-VivaCinema
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -997,8 +997,8 @@ https://mc-h74zm2yvk9.bunny.run/8/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQ
 https://mc-h74zm2yvk9.bunny.run/39/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DD National 
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1015,8 +1015,8 @@ https://mc-h74zm2yvk9.bunny.run/xx/dopamine1148/mainfest.mpd?AuthInfo=XGxWp4Rw7a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
 
 #EXTINF:-6 ch-number="117" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-BS Fuji
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1024,8 +1024,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index
 https://mc-h74zm2yvk9.bunny.run/80/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="118" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Al Saudiya
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1033,8 +1033,8 @@ https://mc-h74zm2yvk9.bunny.run/80/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/79/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="119" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Filam
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1042,8 +1042,8 @@ https://mc-h74zm2yvk9.bunny.run/79/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEv
 https://mc-h74zm2yvk9.bunny.run/108/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="120" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-CNBC
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1051,8 +1051,8 @@ https://mc-h74zm2yvk9.bunny.run/108/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUE
 https://mc-h74zm2yvk9.bunny.run/xx/dopamine1344/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-6 ch-number="121" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Arirang
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1179,8 +1179,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 #EXTINF:-7 group-logo="https://i.pinimg.com/736x/64/24/07/6424072c8f32711c799c2f0d4e577cc0.jpg"
 
 #EXTINF:-7 ch-number="138" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-TMC
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1188,8 +1188,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 https://mc-h74zm2yvk9.bunny.run/97/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-7 ch-number="139" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-CGTN
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1211,8 +1211,8 @@ https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwc
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
 #EXTINF:-7 ch-number="142" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-myx
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1241,8 +1241,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
 
 #EXTINF:-7 ch-number="146" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Celestial Movies Pinoy
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1280,8 +1280,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 
 #EXTINF:-7 ch-number="152" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Phoenix
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1289,8 +1289,8 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 https://mc-h74zm2yvk9.bunny.run/60/dopamine/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-7 ch-number="153" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Xingkong
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1307,8 +1307,8 @@ https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-7 ch-number="157" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Mindanow network
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1339,8 +1339,8 @@ https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg0
 https://abslive.akamaized.net/dash/live/2028025/mor/mainfest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q3D3D&virtualDomain=001.live_hls.zte.com|Referer=https://www.iwanttfc.com/
 
 #EXTINF:-7 ch-number="163" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Nick Jr
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1363,8 +1363,8 @@ https://ba88b7b66ccf41538723ca539b35c4ce.mediatailor.us-east-1.amazonaws.com/v1/
 https://raw.githubusercontent.com/bmrhat/track/refs/heads/main/heartofasia.m3u8
 
 #EXTINF:-7 ch-number="169" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Hallypop
-#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-referrer=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-origin=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2110,6 +2110,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
