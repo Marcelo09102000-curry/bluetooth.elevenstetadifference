@@ -973,10 +973,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 #EXTVLCOPT:http-referrer=http://cignalplay.com
 #EXTVLCOPT:http-origin=http://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
 #EXTINF:-6 ch-number="113" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PBO
 #EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
@@ -1210,8 +1210,14 @@ https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwc
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-#EXTINF:-7 ch-number="142" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Discovery Kids India
-http://181.78.23.26:45000/play/a00h
+#EXTINF:-7 ch-number="142" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-myx
+#EXTVLCOPT:http-referrer=https://mc-h74zm2yvk9.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-h74zm2yvk9.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
+https://mc-h74zm2yvk9.bunny.run/26/dopamine/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X%2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q%3D%3D&virtualDomain=001.live_hls.zte.com&usersessionid=180776581&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRamI7yg8eammkhvOJFfNC00%3D
 
 #EXTINF:-7 ch-number="143" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Pet Club TV
 https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
@@ -2104,6 +2110,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
