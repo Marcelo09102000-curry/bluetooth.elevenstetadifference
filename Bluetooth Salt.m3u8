@@ -969,7 +969,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
-#EXTINF:-6 ch-number="112" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-HBO Family
+#EXTINF:-6 ch-number="112" group-title="Salgu's TV" tvg-id="HBO FAMILY HD.ph" tvg-name="HBO FAMILY HD" tvg-logo="_", TV6-HBO Family
 #EXTVLCOPT:http-referrer=http://cignalplay.com
 #EXTVLCOPT:http-origin=http://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2110,6 +2110,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
