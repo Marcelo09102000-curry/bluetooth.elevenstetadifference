@@ -352,7 +352,7 @@ https://converse.nathcreqtives.com/1286/manifest.mpd
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=hls.to.dash
+#KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
 https://converse.nathcreqtives.com/1102/manifest.mpd
@@ -2110,6 +2110,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
