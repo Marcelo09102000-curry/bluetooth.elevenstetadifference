@@ -248,7 +248,7 @@ https://converse.nathcreqtives.com/1160/manifest.mpd
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 https://converse.nathcreqtives.com/1143/manifest.mpd
 
@@ -257,7 +257,7 @@ https://converse.nathcreqtives.com/1143/manifest.mpd
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:56783536726130576e5a4171564c3741
 https://converse.nathcreqtives.com/1090/manifest.mpd
 
@@ -266,7 +266,7 @@ https://converse.nathcreqtives.com/1090/manifest.mpd
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323237323935303332363334:38346b5732353165303954347677476e
 https://converse.nathcreqtives.com/1159/manifest.mpd
 
@@ -2110,6 +2110,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
