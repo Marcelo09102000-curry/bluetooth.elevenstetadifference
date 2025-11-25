@@ -137,7 +137,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.m
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-https://cvision.mikuy30.dpdns.org/gma/gma7.mpd
+https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcHMiOlsiMTM2LjE1OC43OC4yMTMiXSwiaWF0IjoxNzY0MDgwOTM3LCJleHAiOjE3NjQwODA5NTJ9.ju-Spp9RaZIT277NawNZXLzT7DLPbEyilMYAuyCFMUk&timest
 
 #EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231102358", TV2-Alltv2
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
@@ -2110,6 +2110,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
