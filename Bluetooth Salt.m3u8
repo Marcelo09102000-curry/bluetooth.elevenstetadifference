@@ -70,7 +70,7 @@ https://converse.nathcreqtives.com/1216/manifest.mpd
 #EXTINF:-2 group-logo="https://i.pinimg.com/736x/89/9c/0d/899c0de9c7dd07a91c6578e325198619.jpg"
 
 #EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-The Manila Hotel
-https://raw.githubusercontent.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/refs/heads/main/unrespect%20final.m3u8
+https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/raw/refs/heads/main/Unrespective.mp4
 
 #EXTINF:-2 ch-number="9" group-title="Curry's TV" tvg-id="animax.cignal" tvg-name="animax" tvg-logo="https://i.imgur.com/MiUDLVa.png", TV2-AnimaX
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -109,13 +109,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
 
 #EXTINF:-2 ch-number="13" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV2-Congress TV
-#EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
-#EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363735373539353634323837313330:45697656385434514879435648537855
-http://213.78.158.136:6910/001/2/ch00000090990000001328/manifest.mpd
+https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/raw/refs/heads/main/Unrespective.mp4
 
 #EXTINF:-2 ch-number="14" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/2/25/PTV_Ang_Pambansang_TV_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250829002540", TV2-PTV
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -207,13 +201,7 @@ https://converse.nathcreqtives.com/1087/manifest.mpd
 https://converse.nathcreqtives.com/1243/manifest.mpd
 
 #EXTINF:-3 ch-number="22" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-payperview
-#EXTVLCOPT:http-referrer=https://cignalplay.com
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-grp-02-prod.akamaized.net/bpk-tv/cg_ppv_main_hd/default/index.mpd
+https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/raw/refs/heads/main/Unrespective.mp4
 
 #EXTINF:-3 ch-number="23" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png", TV3-Aliw
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
@@ -2138,6 +2126,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
