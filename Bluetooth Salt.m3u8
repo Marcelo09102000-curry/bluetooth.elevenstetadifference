@@ -330,7 +330,7 @@ https://ln.run/4x0dD
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://mc-xpxqcx2x0i.bunny.run/15/dopamine/mainfest.mpd
+https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcHMiOlsiMTM2LjE1OC43OC4yMTMiXSwiaWF0IjoxNzY0MjQxMzk5LCJleHAiOjE3NjQyNDE0MTR9.Zeaf979raIcZHJvPds9gV7RcMI7QFpNjZPjk-QGt1P4&timestamp=1764241399824
 
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV3-Fashion TV
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
@@ -2094,6 +2094,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
