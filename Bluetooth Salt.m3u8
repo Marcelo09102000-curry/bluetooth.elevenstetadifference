@@ -476,7 +476,7 @@ https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
 #EXTINF:-4 ch-number="52" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Cartoonito
-https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/raw/refs/heads/main/doghuntingsig.ts
+https://bisdaktv.fun/stream/nayswan.php?name=kapamilya
 
 #EXTINF:-4 ch-number="53" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-BuKo
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -528,13 +528,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
 
 #EXTINF:-4 ch-number="60" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Lifetime
-#EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
-#EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031313938:715a36614f62445635304852794b3676
-https://converse.nathcreqtives.com/1075/manifest.mpd
+https://bisdaktv.fun/stream/nayswan.php?name=cinema%20one
 
 #EXTINF:-4 ch-number="61" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Tap Sports
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/b968b2b6-b245-11f0-84ec-be1bcda50f3d/21/1920x1080_5130400/index.m3u8
@@ -2121,6 +2115,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
