@@ -72,9 +72,11 @@ https://converse.nathcreqtives.com/1216/manifest.mpd
 #EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-The Manila Hotel
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
+#KODIPROP:inputstreamaddon=inputstream.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcHMiOlsiMTM2LjE1OC43OC4yMTMiXSwiaWF0IjoxNzY0MjQxMzk5LCJleHAiOjE3NjQyNDE0MTR9.Zeaf979raIcZHJvPds9gV7RcMI7QFpNjZPjk-QGt1P4
+#KODIPROP:inputstreamaddon=inputstream.timestamp=1764241399824
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31373031363636343834333733333033:39346c527a596c59304a313449343338
 https://converse.nathcreqtives.com/1406/manifest.mpd
 
@@ -90,9 +92,11 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 #EXTINF:-2 ch-number="10" group-title="Curry's TV" tvg-id="knowledge_channel.cignal" tvg-name="knowledge_channel" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png", TV2-Knowledge channel
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
+#KODIPROP:inputstreamaddon=inputstream.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcHMiOlsiMTM2LjE1OC43OC4yMTMiXSwiaWF0IjoxNzY0MjQxMzk5LCJleHAiOjE3NjQyNDE0MTR9.Zeaf979raIcZHJvPds9gV7RcMI7QFpNjZPjk-QGt1P4
+#KODIPROP:inputstreamaddon=inputstream.timestamp=1764241399824
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
 https://converse.nathcreqtives.com/1340/manifest.mpd
 
@@ -115,7 +119,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
 
 #EXTINF:-2 ch-number="13" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV2-Congress TV
-https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/raw/refs/heads/main/unrespectivecurry.ts
+https://raw.githubusercontent.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/main/unrespectivecurry.ts
 
 #EXTINF:-2 ch-number="14" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/2/25/PTV_Ang_Pambansang_TV_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250829002540", TV2-PTV
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -2132,6 +2136,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
