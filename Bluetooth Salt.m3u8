@@ -69,7 +69,7 @@ https://converse.nathcreqtives.com/1216/manifest.mpd
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Curry's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-2 group-logo="https://i.pinimg.com/736x/89/9c/0d/899c0de9c7dd07a91c6578e325198619.jpg"
 
-#EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-The Manila Hotel
+#EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-Edge sports
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcHMiOlsiMTM2LjE1OC43OC4yMTMiXSwiaWF0IjoxNzY0MjQxMzk5LCJleHAiOjE3NjQyNDE0MTR9.Zeaf979raIcZHJvPds9gV7RcMI7QFpNjZPjk-QGt1P4
@@ -470,7 +470,13 @@ https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
 #EXTINF:-4 ch-number="52" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Cartoonito
-https://bisdaktv.fun/stream/nayswan.php?name=kapamilya
+#EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
+#EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.mainfest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313038303239323838303638:7768354e65797950397a6c566d356256
+https://converse.nathcreqtives.com/1125/manifest.mpd
 
 #EXTINF:-4 ch-number="53" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-BuKo
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -482,7 +488,13 @@ https://bisdaktv.fun/stream/nayswan.php?name=kapamilya
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
 
 #EXTINF:-4 ch-number="54" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-TVN
-https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference/raw/refs/heads/main/loading%20cats.ts
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
 
 #EXTINF:-4 ch-number="55" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-UNTV
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
@@ -941,7 +953,7 @@ https://converse.nathcreqtives.com/1253/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363331313938353234383134303633:3669754977303668394e493367344773
 https://converse.nathcreqtives.com/1263/manifest.mpd
 
-#EXTINF:-6 ch-number="109" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DW News
+#EXTINF:-6 ch-number="109" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Deutsche Welle
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -995,14 +1007,14 @@ https://converse.nathcreqtives.com/1078/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
 https://converse.nathcreqtives.com/1079/manifest.mpd
 
-#EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-DD National 
+#EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Vegas Life 
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353336393335353433343536:397358334c5a30623539354d586d5348
-https://converse.nathcreqtives.com/1148/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=31363232313039393438323931323033:3438455a3450367a4b593050667a3441
+https://converse.nathcreqtives.com/1134/manifest.mpd
 
 #EXTINF:-6 ch-number="116" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Bloomberg
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -2109,6 +2121,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
