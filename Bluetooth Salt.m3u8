@@ -121,7 +121,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
 #EXTINF:-2 ch-number="13" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV2-Congress TV
 https://raw.githubusercontent.com/Marcelo09102000-curry/bluetooth.elevenstetadifference.error.official/main/unrespectivecurry.ts
 
-#EXTINF:-2 ch-number="14" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/2/25/PTV_Ang_Pambansang_TV_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250829002540", TV2-PTV
+#EXTINF:-2 ch-number="14" group-title="Curry's TV" tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/2/25/PTV_Ang_Pambansang_TV_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250829002540", TV2-PTV
 https://bisdaktv.fun/stream/nayswan.php?name=ptv%204
 
 #EXTINF:-2 ch-number="15" group-title="Curry's TV" tvg-id="gma.click" tvg-name="gma" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e2/GMA_2024_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250606135406", TV2-GMA
@@ -2121,6 +2121,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
