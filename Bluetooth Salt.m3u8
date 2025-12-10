@@ -196,7 +196,7 @@ https://converse.nathcreqtives.com/1087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjU4NTExMjF9.8wkuBcqLXThV7I31w0yAySDq24iSkGocvUvieuOsBBE
 
 #EXTINF:-3 ch-number="22" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV3-payperview
-https://ffmpeg-online.vercel.app/1e655bbb-b427-4993-844f-64d2ca5e2d1f
+blob:https://ffmpeg-online.vercel.app/ca0fcbe2-e068-46fc-ae08-5d25437cc16c
 
 #EXTINF:-3 ch-number="23" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png", TV3-Aliw
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
@@ -2116,6 +2116,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
