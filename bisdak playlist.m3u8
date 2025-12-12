@@ -7,8 +7,10 @@ https://bisdaktv.fun/stream/nayswan.php?name=tvn
 https://bisdaktv.fun/stream/nayswan.php?name=ptv%204
 #EXTINF:18 ch-number="5.1" group-title="-" tvg-id="_" tvg-name="_" tvg-logo="_",nayswan.php?name=tv 5
 https://bisdaktv.fun/stream/nayswan.php?name=tv%205
-#EXTINF:26 ch-number="7.1" group-title="-" tvg-id="_" tvg-name="_" tvg-logo="_",nayswan.php?name=gma7
+#EXTINF:24 ch-number="7.1" group-title="-" tvg-id="_" tvg-name="_" tvg-logo="_",nayswan.php?name=gma7
 https://bisdaktv.fun/stream/nayswan.php?name=gma7
+#EXTINF:26 ch-number="8.8" group-title="-" tvg-id="_" tvg-name="_" tvg-logo="_",nayswan.php?name=fox news
+https://bisdaktv.fun/stream/nayswan.php?name=fox%20news
 #EXTINF:27 ch-number="7.2" group-title="-" tvg-id="_" tvg-name="_" tvg-logo="_",nayswan.php?name=gtv
 https://bisdaktv.fun/stream/nayswan.php?name=gma%20news%20tv
 #EXTINF:39 ch-number="19.2" group-title="-" tvg-id="_" tvg-name="_" tvg-logo="_",nayswan.php?name=rptv
@@ -25,5 +27,6 @@ https://bisdaktv.fun/stream/nayswan.php?name=kapamilya
 https://bisdaktv.fun/stream/nayswan.php?name=Cartoon%20Network
 #EXTINF:151 ch-number="5.3" group-title="-" tvg-id="_" tvg-name="_" tvg-logo="_",nayswan.php?name=one sports
 https://bisdaktv.fun/stream/nayswan.php?name=one%20sports
+
 
 
