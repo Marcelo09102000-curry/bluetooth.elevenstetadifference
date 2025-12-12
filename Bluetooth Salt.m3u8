@@ -671,9 +671,13 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-5 group-logo="https://i.pinimg.com/736x/cf/bf/a3/cfbfa3dbb1a589a770c36b1b62409412.jpg"
 
 #EXTINF:-5 ch-number="77" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-TLC
-https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference/raw/refs/heads/main/loading%20cats.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+https://converse.nathcreqtives.com/astro/2709/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY3NjU2NTJ9.5_lgekGoeVZg1CqUEVNSvGXNugNr2mo_OeULNfqK8zs
 
-#EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Monde asie
+#EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/39/ed/5c39ed49-a961-8e02-b89a-7f3482f50f91/Placeholder.mill/200x200bb-75.webp", TV5-Monde asie
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -682,15 +686,10 @@ https://github.com/Marcelo09102000-curry/bluetooth.elevenstetadifference/raw/ref
 #KODIPROP:inputstream.adaptive.license_key=31363232373836323139373230313339:4c6641384b484e334734496479725669
 https://converse.nathcreqtives.com/1156/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY2NDgwMDJ9.CAcc4k_60F6yddN60P5XdEmthEYsJoOjihGuAOXjl-8
 
-#EXTINF:-5 ch-number="79" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Fox news
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
+#EXTINF:-5 ch-number="79" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/16/6e/cd166eab-6b83-e60c-bcc8-1b006d813c40/Placeholder.mill/200x200bb-75.webp", TV5-Fox news
+https://bisdaktv.fun/stream/nayswan.php?name=fox%20news
 
-#EXTINF:-5 ch-number="80" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Paramount network
+#EXTINF:-5 ch-number="80" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://play-lh.googleusercontent.com/oi4GE8ulxHp4Y2xVzKu_WAMrgE4Jj4Kbdd7hAWLeoZTsMtC5bYTd2xcYhlvMk69pTFY=w240-h480-rw", TV5-Paramount network
 http://45.173.75.4:2061/play/a09u
 
 #EXTINF:-5 ch-number="81" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Pinoy extreme
@@ -702,7 +701,7 @@ http://45.173.75.4:2061/play/a09u
 #KODIPROP:inputstream.adaptive.license_key=31363232303230383430323537313039:4758346d3275333571364e7259356554
 https://converse.nathcreqtives.com/1098/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY2NDgwMDJ9.CAcc4k_60F6yddN60P5XdEmthEYsJoOjihGuAOXjl-8
 
-#EXTINF:-5 ch-number="82" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-NHK World Japan
+#EXTINF:-5 ch-number="82" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/78/6d/1c786d3f-0b2a-e0be-95e7-2a0b410d26de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200ia-75.webp", TV5-NHK World Japan
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2118,6 +2117,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
