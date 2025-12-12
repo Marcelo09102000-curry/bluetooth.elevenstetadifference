@@ -31,6 +31,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #EXTINF:-1 ch-number="4" group-title="Half's TV" tvg-id="bilyonaryoch.cignal" tvg-name="bilyonaryoch" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Img_1_1756009833117.jpg/revision/latest?cb=20250824043538", TV1-BNC HD
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
+#KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY2NDgwMDJ9.CAcc4k_60F6yddN60P5XdEmthEYsJoOjihGuAOXjl-8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -58,6 +59,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 #EXTINF:-1 ch-number="7" group-title="Half's TV" tvg-id="anc.click" tvg-name="anc" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/52/ANC_HD_Logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20250529143456", TV1-ANC HD Philippines
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
+#KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY2NDgwMDJ9.CAcc4k_60F6yddN60P5XdEmthEYsJoOjihGuAOXjl-8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -340,13 +342,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 https://ln.run/4x0dD
 
 #EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="kapamilya.ph" tvg-name="kapamilya" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV3-Kapamilya channel HD
-#EXTVLCOPT:http-referrer=https://skytv.convergeict.akamaized.net
-#EXTVLCOPT:http-origin=https://skytv.convergeict.akamaized.net
+#EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
+#EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
+#KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY2NDgwMDJ9.CAcc4k_60F6yddN60P5XdEmthEYsJoOjihGuAOXjl-8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://skytv.convergeict.akamaized.net/001/2/ch00000090990000001286/manifest.mpd
+https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY2NDgwMDJ9.CAcc4k_60F6yddN60P5XdEmthEYsJoOjihGuAOXjl-8
 
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV3-Fashion TV
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
@@ -2115,6 +2118,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
