@@ -291,7 +291,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-3 ch-number="33" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png", TV3-Light TV (Gods channel of blessings)
+#EXTINF:-3 ch-number="33" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://zbni.ph/wp-content/uploads/2025/03/Light-TV-final_DM-black-scaled.webp", TV3-Light TV (Gods channel of blessings)
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJleHAiOjE3NjY2NDgwMDJ9.CAcc4k_60F6yddN60P5XdEmthEYsJoOjihGuAOXjl-8
@@ -2117,6 +2117,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
