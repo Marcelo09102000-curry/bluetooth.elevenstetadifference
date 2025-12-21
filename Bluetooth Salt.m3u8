@@ -1,6 +1,6 @@
-Bluetooth Salt
+Audience Integrated Unit Interface
 
-#EXTM3U billed-msg="BT Salt"
+#EXTM3U billed-msg="AI UI"
 
 #EXTM3U url-tvg="https://www.open-epg.com/generate/wMtxx8M4UF.xml.gz, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/sky_epg.xml.gz, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
 
@@ -2117,6 +2117,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
