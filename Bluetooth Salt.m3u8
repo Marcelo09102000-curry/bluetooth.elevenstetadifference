@@ -341,25 +341,26 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 #EXTINF:-3 ch-number="38" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.ibb.co/NTqmxxj/Hungarian-Fight-Championship-HFC-logo-removebg-preview.png", TV3-HFC
 https://ln.run/4x0dD
 
-#EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="kapamilya.ph" tvg-name="kapamilya" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV3-Kapamilya channel HD
+#EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png", TV3-CineMo!
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
+#KODIPROP:inputstream.adaptive.license_key=31363331363735393833333531383134:4a4f75336e6e30764575624855326937
+https://converse.nathcreqtives.com/1254/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
 
-#EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV3-Fashion TV
+#EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://images.seeklogo.com/logo-png/50/1/myx-logo-png_seeklogo-500647.png", TV3-myx
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
-https://converse.nathcreqtives.com/1102/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
+#KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
+https://converse.nathcreqtives.com/1252/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
+
 
 #EXTINF:-3 ch-number="41" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737", TV3-One Sports
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -379,15 +380,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
 
-#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png", TV3-CineMo!
+#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="kapamilya.ph" tvg-name="kapamilya" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV3-Kapamilya channel HD
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363735393833333531383134:4a4f75336e6e30764575624855326937
-https://converse.nathcreqtives.com/1254/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
 
 #EXTINF:-3 ch-number="44" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/61fHpnW.png", TV3-PBO
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
@@ -1217,14 +1218,14 @@ https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwc
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-#EXTINF:-7 ch-number="142" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-myx
+#EXTINF:-7 ch-number="142" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/Zd5zm7C.png", TV7-Fashion TV
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
-https://converse.nathcreqtives.com/1252/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
+#KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
+https://converse.nathcreqtives.com/1102/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
 
 #EXTINF:-7 ch-number="143" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Pet Club TV
 https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
@@ -2117,6 +2118,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
