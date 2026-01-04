@@ -31,12 +31,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #EXTINF:-1 ch-number="4" group-title="Half's TV" tvg-id="bilyonaryoch.cignal" tvg-name="bilyonaryoch" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Img_1_1756009833117.jpg/revision/latest?cb=20250824043538", TV1-BNC HD
 #EXTVLCOPT:http-referrer=https://converse.nathcreqtives.com
 #EXTVLCOPT:http-origin=https://converse.nathcreqtives.com
-#KODIPROP:inputstreamtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
-https://converse.nathcreqtives.com/1124/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJXZXNsZXkiLCJpYXQiOjE3NjcwNjc1MDUsImV4cCI6MTc2NzQ1NDE0NSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY3NDU0MTQ1fQ.bpLThnBZBwKVSDWdJ1c5d9BeiC60j9uU2Q7E7Ygy4AI
+http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="5" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest?cb=20241110070654", TV1-True TV
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -2118,6 +2117,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
