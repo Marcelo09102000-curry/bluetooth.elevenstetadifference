@@ -7,7 +7,7 @@ Audience Blackast Unit Interface
 TV
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Half's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#EXTINF:-1 group-logo="https://i.pinimg.com/736x/11/8f/cb/118fcb8ccc90f6204b8123cd11db679f.jpg"
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/7d/51/02/7d5102e78157513d69eea429d620dc75.jpg"
 
 #EXTINF:-1 ch-number="1" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest?cb=20250824042957", TV1-Abante Teletabloid
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
@@ -63,7 +63,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v8
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Curry's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#EXTINF:-2 group-logo="https://i.pinimg.com/736x/89/9c/0d/899c0de9c7dd07a91c6578e325198619.jpg"
+#EXTINF:-2 group-logo="https://i.pinimg.com/736x/a1/b1/69/a1b1696216b4df3ddea0977a2906ee30.jpg"
 
 #EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-Edge sports
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
@@ -158,7 +158,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87H
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Sig's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#EXTINF:-3 group-logo="https://i.pinimg.com/736x/f2/88/74/f28874a460ebb72b4cf1bc358c12270f.jpg"
+#EXTINF:-3 group-logo="https://i.pinimg.com/736x/80/4f/44/804f448854c266f76fcdaec77906f6d6.jpg"
 
 #EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="A2Z.ph" tvg-name="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
@@ -373,7 +373,7 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Amogus's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#EXTINF:-4 group-logo="https://i.pinimg.com/736x/9b/e7/16/9be716b48fe814f6d8f8a8b1490db73d.jpg"
+#EXTINF:-4 group-logo="https://i.pinimg.com/736x/38/02/c5/3802c575189f362ba1bfd8f8ab88d8be.jpg"
 
 #EXTINF:-4 ch-number="48" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/2b/Solar_Sports_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20250913144545", TV4-Solar Sports
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
@@ -588,7 +588,7 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Loaf's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#EXTINF:-5 group-logo="https://i.pinimg.com/736x/cf/bf/a3/cfbfa3dbb1a589a770c36b1b62409412.jpg"
+#EXTINF:-5 group-logo="https://i.pinimg.com/736x/4f/2b/f1/4f2bf1d35da77bbd8d6a6cdccd3db550.jpg"
 
 #EXTINF:-5 ch-number="77" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-TLC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -815,7 +815,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001199/manifest.mpd?AuthInfo=v8
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Salgu's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#EXTINF:-6 group-logo="https://i.pinimg.com/736x/0d/9b/cf/0d9bcfb06835951b0b81a8e67c1bd64b.jpg"
+#EXTINF:-6 group-logo="https://i.pinimg.com/736x/8f/35/ad/8f35ad75378516208754aa5d941b3baf.jpg"
 
 #EXTINF:-6 ch-number="107" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Thrill
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
@@ -1039,7 +1039,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Maya's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#EXTINF:-7 group-logo="https://i.pinimg.com/736x/64/24/07/6424072c8f32711c799c2f0d4e577cc0.jpg"
+#EXTINF:-7 group-logo="https://i.pinimg.com/736x/b2/08/52/b20852fe01c05a3d96c54a584af604e0.jpg"
 
 #EXTINF:-7 ch-number="138" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-TMC
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
@@ -1914,6 +1914,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
