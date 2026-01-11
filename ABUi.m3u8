@@ -1294,6 +1294,7 @@ https://stream.zeno.fm/xnuifxjgpomvv
 
 #EXTINF:-1 group-logo=""
 
+
 #EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-14.3 Global Online Radio
 http://65.108.124.70:8255/stream
 
@@ -1371,6 +1372,9 @@ https://pinas.radyonatinfm.com/listen/dwis/agoo
 
 #EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-201.9 Adzaa Online Radio FM
 https://stream.hornhost.com/8016/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-Super radyo audio
+https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8
 
 #EXTINF:-9 tvg-logo="" group-title="Ho Salt Males", RD-B-997 My Friends FM
 http://trappist.shoutca.st:8171/live
@@ -1888,6 +1892,9 @@ http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-96.3 Easy Rock
 https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
 
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Baranggay LS
+https://gsattv.akamaized.net/live/media0/radiodwls/Fairplay/radiodwls.m3u8
+
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-97.9 Home Radio
 https://hrmanila.radioca.st/stream
 
@@ -1914,6 +1921,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
