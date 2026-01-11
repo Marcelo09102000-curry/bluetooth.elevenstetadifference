@@ -955,7 +955,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/i
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 #EXTINF:-6 ch-number="127" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Jungo Pinoy
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_360p.m3u8
-#EXTINF:-6 ch-number="128" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 1
+#EXTINF:-6 ch-number="128" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/28/5c/fa/285cfa21e32e7d5f04f78f53932f660e.jpg", TV6-PH live 1
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -963,7 +963,7 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_360p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
-#EXTINF:-6 ch-number="129" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 2
+#EXTINF:-6 ch-number="129" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/17/4c/6e/174c6ed3d35171aefdf474ad7a7ac3b2.jpg", TV6-PH live 2
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -971,7 +971,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
-#EXTINF:-6 ch-number="130" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 3
+#EXTINF:-6 ch-number="130" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/e8/22/c6/e822c6c5848144b9fd4d7275c7a71278.jpg, TV6-PH live 3
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -979,7 +979,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
-#EXTINF:-6 ch-number="131" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 4
+#EXTINF:-6 ch-number="131" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/48/6f/de/486fde6a6b75692030f2a3032fab6dbf.jpg", TV6-PH live 4
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -987,7 +987,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
-#EXTINF:-6 ch-number="132" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 5
+#EXTINF:-6 ch-number="132" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/22/78/7d/22787d5fbfe08d1a31c964d509def4ca.jpg", TV6-PH live 5
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -995,7 +995,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
-#EXTINF:-6 ch-number="133" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 6
+#EXTINF:-6 ch-number="133" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/cd/9a/dc/cd9adcd6e8c90dd635e2558407f94082.jpg", TV6-PH live 6
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1003,7 +1003,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
-#EXTINF:-6 ch-number="134" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 7
+#EXTINF:-6 ch-number="134" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/36/f7/b3/36f7b316c98c3293eb510b175703fb5d.jpg", TV6-PH live 7
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1011,7 +1011,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
-#EXTINF:-6 ch-number="135" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 8
+#EXTINF:-6 ch-number="135" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/66/74/33/66743395654a3925aa1248a7037d6006.jpg", TV6-PH live 8
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1019,7 +1019,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
-#EXTINF:-6 ch-number="136" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 9
+#EXTINF:-6 ch-number="136" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/88/aa/47/88aa47a4b9f73cd6784a0298be80368e.jpg", TV6-PH live 9
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1027,7 +1027,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
-#EXTINF:-6 ch-number="137" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-PH live 10
+#EXTINF:-6 ch-number="137" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/98/84/f8/9884f880ea0a0ab3319365b4a7f24063.jpg", TV6-PH live 10
 #EXTVLCOPT:http-referrer=https://pilipinaslive.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1921,6 +1921,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
