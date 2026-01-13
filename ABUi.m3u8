@@ -1116,6 +1116,8 @@ http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
+#EXTINF:-7 ch-number="148" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-7 ch-number="149" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-NBC4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
@@ -1912,6 +1914,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
