@@ -2,7 +2,7 @@ Audience Blackast Unit Interface
 
 #EXTM3U billed-msg="ABUI"
 
-#EXTM3U url-tvg="https://www.open-epg.com/generate/wMtxx8M4UF.xml.gz, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/sky_epg.xml.gz, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
+#EXTM3U url-tvg="https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml, https://www.open-epg.com/generate/wMtxx8M4UF.xml.gz, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/sky_epg.xml.gz, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
 
 TV
 
@@ -596,12 +596,12 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Loaf's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-5 group-logo="https://i.pinimg.com/736x/4f/2b/f1/4f2bf1d35da77bbd8d6a6cdccd3db550.jpg"
 
-#EXTINF:-5 ch-number="77" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-TLC
+#EXTINF:-5 ch-number="77" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-EuroSports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 #EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/39/ed/5c39ed49-a961-8e02-b89a-7f3482f50f91/Placeholder.mill/200x200bb-75.webp", TV5-Monde asie
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
@@ -1917,6 +1917,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
