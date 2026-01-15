@@ -125,7 +125,7 @@ https://bisdaktv.fun/stream/nayswan.php?name=ptv%204
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="kapamilya.ph" tvg-name="kapamilya" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV3-Kapamilya channel HD
+#EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="KAPAMILYA CHANNEL.ph" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV3-Kapamilya channel HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -166,7 +166,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87H
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Sig's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-3 group-logo="https://i.pinimg.com/736x/80/4f/44/804f448854c266f76fcdaec77906f6d6.jpg"
 
-#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="A2Z.ph" tvg-name="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
+#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="A2Z CHANNEL.ph" tvg-name="A2Z CHANNEL" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -602,7 +602,7 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
-#EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/39/ed/5c39ed49-a961-8e02-b89a-7f3482f50f91/Placeholder.mill/200x200bb-75.webp", TV5-Monde asie
+#EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="TV5 MONDE.ph" tvg-name="TV5 MONDE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/39/ed/5c39ed49-a961-8e02-b89a-7f3482f50f91/Placeholder.mill/200x200bb-75.webp", TV5-Monde asie
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1917,6 +1917,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
