@@ -1858,6 +1858,9 @@ https://eu10.fastcast4u.com/uragon98
 http://192.99.8.192:3154/www.vhiveradio.com/
 
 
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-El Shaddai radio
+https://in-icecast.eradioportal.com:8443/dwxi-streaming
+
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-87.5 Republika ni Juan
 https://stream.zeno.fm/qnt98p5m108uv
 
@@ -1914,7 +1917,6 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
-
 
 
 
