@@ -1157,11 +1157,11 @@ http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87H
 http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-7 ch-number="154" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/oIDHKvHqCOyUFJuA8whJ_oh_kdPAcX2HxK07XpPyWZSzeswsZWpvRbytl1y6CHiMcMnP-ZpCEw=s160-c-k-c0x00ffffff-no-rj", TV7-VoA {test broadcast}
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
-#EXTINF:-7 ch-number="155" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Red bull
+#EXTINF:-7 ch-number="155" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/1200x/d6/66/22/d66622f14d699a3204098568def9d785.jpg", TV7-Red bull
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-7 ch-number="156" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-PBS Kids asia
+#EXTINF:-7 ch-number="156" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/08/PBS-KIDS-2022-LOGO-FAN-FIX.svg/revision/latest?cb=20221202043141", TV7-PBS Kids asia
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-7 ch-number="157" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Mindanow network
+#EXTINF:-7 ch-number="157" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.ggpht.com/rZXYDWmNEVO35g-BolWhdE1d-UMRKvwo6WpVZBPS9M_xefosVK5mg5LgrZrNu3Wb3ajtPmORIw=s176-c-k-c0x00ffffff-no-rj-mo", TV7-Mindanow network
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1183,11 +1183,11 @@ http://136.239.158.18:6610/001/2/ch00000090990000001287/manifest.mpd?AuthInfo=v8
 https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
 #EXTINF:-7_ ch-number="161" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Mythbusters
 https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
-#EXTINF:-7 ch-number="162" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-MOR
+#EXTINF:-7 ch-number="162" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/dxs/images/b/be/MOR_Entertainment_Logo_2021.png/revision/latest/scale-to-width-down/300?cb=20221001151104", TV7-MOR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
 https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd
-#EXTINF:-7 ch-number="163" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Nick Jr HD
+#EXTINF:-7 ch-number="163" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/b8/99/1d/b8991d0685a60bef966208a3624e5f08.jpg", TV7-Nick Jr HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1205,7 +1205,7 @@ https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/
 https://ba88b7b66ccf41538723ca539b35c4ce.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_GrjngoWesternMovies/playlist.m3u8
 #EXTINF:-7 ch-number="168" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-i Heart movies
 https://hls.nathcreqtives.com/playlist.m3u8?id=2
-#EXTINF:-7 ch-number="169" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Hallypop
+#EXTINF:-7 ch-number="169" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/38/Hallypop_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241210140522", TV7-Hallypop
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
