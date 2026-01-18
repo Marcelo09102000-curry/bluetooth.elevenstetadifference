@@ -1052,7 +1052,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Maya's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-7 group-logo="https://i.pinimg.com/736x/b2/08/52/b20852fe01c05a3d96c54a584af604e0.jpg"
 
-#EXTINF:-7 ch-number="138" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-TMC
+#EXTINF:-7 ch-number="138" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/6mNCite.png", TV7-TMC
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1060,7 +1060,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830373532303039383138:363354494336436b494a776f4a796634
 http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-7 ch-number="139" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-CGTN
+#EXTINF:-7 ch-number="139" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459", TV7-CGTN
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1068,13 +1068,13 @@ http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336333639353433303837:4474796d43686c745050494735475443
 http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-7 ch-number="140" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Adult Swim
+#EXTINF:-7 ch-number="140" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png", TV7-Adult Swim
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
 https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
-#EXTINF:-7 ch-number="141" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-YTV
+#EXTINF:-7 ch-number="141" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/LXoPZ8x.png", TV7-YTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1088,9 +1088,9 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
 http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-7 ch-number="143" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Pet Club TV
+#EXTINF:-7 ch-number="143" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://dcassetcdn.com/design_img/855571/151606/151606_4974511_855571_image.png", TV7-Pet Club TV
 https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-7 ch-number="144" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Dreamworks HD
+#EXTINF:-7 ch-number="144" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/1200x/a7/d7/aa/a7d7aab0efc1a1e9eda5d37fd18334e3.jpg", TV7-Dreamworks HD
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1098,7 +1098,7 @@ https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-#EXTINF:-7 ch-number="145" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Dreamworks {tagalized audio pack}
+#EXTINF:-7 ch-number="145" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/bf/b8/41/bfb841d6a34355ea83ac80c6cb9a0cf0.jpg", TV7-Dreamworks {tagalized audio pack}
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1106,7 +1106,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
-#EXTINF:-7 ch-number="146" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Celestial Movies Pinoy
+#EXTINF:-7 ch-number="146" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/4JCkzjl.png", TV7-Celestial Movies Pinoy
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1114,7 +1114,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
 http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-7 ch-number="147" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Hits
+#EXTINF:-7 ch-number="147" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/YeqyD9W.png", TV7-Hits
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1122,24 +1122,24 @@ http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
-#EXTINF:-7 ch-number="148" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-wion
+#EXTINF:-7 ch-number="148" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://cdn.aptoide.com/imgs/4/a/5/4a5adbf369c5c5912959c12de0b808ae_icon.jpg?w=128", TV7-wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-7 ch-number="149" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-NBC4
+#EXTINF:-7 ch-number="149" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://media.nbclosangeles.com/2021/06/ONLINE-ONLY-KNBC-Blu-Med.jpg?quality=85&strip=all&resize=850%2C478", TV7-NBC4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-#EXTINF:-7 ch-number="150" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-NBC Sports
+#EXTINF:-7 ch-number="150" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo=https://yt3.googleusercontent.com/ytc/AIdro_k0h_7S0GYR68_R0gQAv5klEyuKRaS8ZxfbshjVaGiJKQ=s160-c-k-c0x00ffffff-no-rj", TV7-NBC Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-#EXTINF:-7 ch-number="151" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-BBC News HD
+#EXTINF:-7 ch-number="151" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k0h_7S0GYR68_R0gQAv5klEyuKRaS8ZxfbshjVaGiJKQ=s160-c-k-c0x00ffffff-no-rj", TV7-BBC News HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-#EXTINF:-7 ch-number="152" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Phoenix
+#EXTINF:-7 ch-number="152" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/0DVIlBXVrcph_VblCI-B0lFTXHOQ9ottOBU4I8dY57IQl600eVqiM3dTp4aaNe1Ee7RFYosd4Ls=s160-c-k-c0x00ffffff-no-rj", TV7-Phoenix
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1147,7 +1147,7 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303231353137323537353939:33764c30506679394d3147434276364a
 http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-7 ch-number="153" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Xingkong
+#EXTINF:-7 ch-number="153" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41611b21-a7ce-419b-bc77-4644f8105930/dezflxl-77d1d111-9bf5-4be3-963c-8edb068b062e.png/v1/fill/w_1000,h_485,q_80,strp/rprt_logos___star_china_media_in_latino__2021__sty_by_therprtnetwork_dezflxl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDg1IiwicGF0aCI6Ii9mLzQxNjExYjIxLWE3Y2UtNDE5Yi1iYzc3LTQ2NDRmODEwNTkzMC9kZXpmbHhsLTc3ZDFkMTExLTliZjUtNGJlMy05NjNjLThlZGIwNjhiMDYyZS5wbmciLCJ3aWR0aCI6Ijw9MTAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xHAqDTuFZ6Sbu4aTZApOv1e9-XgddUedz-CzWlpGyHA", TV7-Xingkong
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1155,7 +1155,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313530323932343234353834:4e78417967303934675469456d395157
 http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-7 ch-number="154" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-VoA {test broadcast}
+#EXTINF:-7 ch-number="154" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/oIDHKvHqCOyUFJuA8whJ_oh_kdPAcX2HxK07XpPyWZSzeswsZWpvRbytl1y6CHiMcMnP-ZpCEw=s160-c-k-c0x00ffffff-no-rj", TV7-VoA {test broadcast}
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-7 ch-number="155" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Red bull
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
