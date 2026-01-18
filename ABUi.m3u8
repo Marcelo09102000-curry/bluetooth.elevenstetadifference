@@ -946,8 +946,14 @@ http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v8
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-6 ch-number="123" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://www.clipartmax.com/png/full/345-3452629_fx-network-fx-channel-logo-png.png", TV6-FX
 https://tvpass.org/live/FXXEast/sd
-#EXTINF:-6 ch-number="124" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/History_2.svg/revision/latest?cb=20200826145426", TV6-History 2
-https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_3_0.m3u8
+#EXTINF:-6 ch-number="124" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV6-3abn
+#EXTVLCOPT:http-referrer=http://136.239.158.18:6610
+#EXTVLCOPT:http-origin=http://136.239.158.18:6610
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323238373138303333383536:483831727543493439436c394f623444
+http://136.239.173.10:6610/001/2/ch00000090990000001183/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr64o8Us4Cb76FV%2BmBBNwJ2syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001397&contentid=ch00000000000000001397&videoid=ch00000090990000001183&recommendtype=0&userid=1977582136078&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=45K5UYO1H2DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-6 ch-number="125" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png", TV6-Cartoon Network
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -1917,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
