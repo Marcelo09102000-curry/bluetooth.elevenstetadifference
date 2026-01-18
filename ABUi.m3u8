@@ -144,13 +144,13 @@ http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
 http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-2 ch-number="18" group-title="Curry's TV" tvg-id="Tv5.ph" tvg-name="Tv5" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/9/95/TV5_HD_2024.svg/revision/latest/scale-to-width-down/1000?cb=20240628013711", TV2-TV5 HD
-#EXTVLCOPT:http-referrer=https://cignalplay.com
-#EXTVLCOPT:http-origin=https://cignalplay.com
+#EXTVLCOPT:http-referrer=http://136.239.158.18:6610
+#EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438303333323033373730:375a684a31357647653565574b363076
+http://136.239.158.10:6610/001/2/ch00000090990000001495/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoKAhSI%2FKriXVjdza0RuOjP2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000002075&contentid=ch00000000000000002075&videoid=ch00000090990000001495&recommendtype=0&userid=1934936099425&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N0MM7FEUMTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-2 ch-number="19" group-title="Curry's TV" tvg-id="rptv.cignal" tvg-name="rptv" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/6c/RPTV_Para_sa_Pinoy%21_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240615003524", TV2-RPTV (RPN)
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
