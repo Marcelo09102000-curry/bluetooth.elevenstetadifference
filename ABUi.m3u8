@@ -65,7 +65,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Curry's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-2 group-logo="https://i.pinimg.com/736x/a1/b1/69/a1b1696216b4df3ddea0977a2906ee30.jpg"
 
-#EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV2-Edge sports
+#EXTINF:-2 ch-number="8" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nXIJhonQwIzknZnNgKK5xe5Lj-fESPcPeR32S5b17j2HI=s160-c-k-c0x00ffffff-no-rj", TV2-Edge sports
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
