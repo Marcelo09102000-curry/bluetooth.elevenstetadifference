@@ -143,7 +143,7 @@ http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
 http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-2 ch-number="18" group-title="Curry's TV" tvg-id="tv5.cignal" tvg-name="tv5" tvg-logo="https://yt3.googleusercontent.com/TymQjmBVY9ZSStktLxBK7jWS3JP7GBB8SLmYJNjfVn-ZfWy_LOwu8pcZNQKoyOVQS4fUCosR=s160-c-k-c0x00ffffff-no-rj", TV2-TV5
+#EXTINF:-2 ch-number="18" group-title="Curry's TV" tvg-id="17907" tvg-name="TV5" tvg-logo="https://yt3.googleusercontent.com/TymQjmBVY9ZSStktLxBK7jWS3JP7GBB8SLmYJNjfVn-ZfWy_LOwu8pcZNQKoyOVQS4fUCosR=s160-c-k-c0x00ffffff-no-rj", TV2-TV5
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -166,7 +166,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87H
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Sig's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-3 group-logo="https://i.pinimg.com/736x/80/4f/44/804f448854c266f76fcdaec77906f6d6.jpg"
 
-#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="a2z.click" tvg-name="a2z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
+#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="9772" tvg-name="A2Z CHANNEL" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -215,7 +215,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238303538303333323032:486c53576e387559676c774b53375037
 http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-3 ch-number="27" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png", TV3-Gtv
+#EXTINF:-3 ch-number="27" group-title="Sig's TV" tvg-id="5385" tvg-name="GTV" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png", TV3-Gtv
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -224,7 +224,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-3 ch-number="28" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png", TV3-NET25
+#EXTINF:-3 ch-number="28" group-title="Sig's TV" tvg-id="966" tvg-name="NET 25" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png", TV3-NET25
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
