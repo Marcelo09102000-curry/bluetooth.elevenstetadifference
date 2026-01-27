@@ -602,7 +602,7 @@ https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
-#EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="TV5 MONDE.ph" tvg-name="TV5 MONDE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/39/ed/5c39ed49-a961-8e02-b89a-7f3482f50f91/Placeholder.mill/200x200bb-75.webp", TV5-Monde asie
+#EXTINF:-5 ch-number="78" group-title="Loaf's TV" tvg-id="tv5_monde.cignal" tvg-name="tv5_monde" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/39/ed/5c39ed49-a961-8e02-b89a-7f3482f50f91/Placeholder.mill/200x200bb-75.webp", TV5-Monde asie
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
