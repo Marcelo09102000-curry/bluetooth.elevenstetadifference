@@ -116,7 +116,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.m
 http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001414&contentid=ch00000000000000001414&videoid=ch00000090990000001177&recommendtype=0&userid=1440892826941&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AGE6A6KKG8LXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-2 ch-number="14" group-title="Curry's TV" tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/2/25/PTV_Ang_Pambansang_TV_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250829002540", TV2-PTV
 https://bisdaktv.fun/stream/nayswan.php?name=ptv%204
-#EXTINF:-2 ch-number="15" group-title="Curry's TV" tvg-id="gma.click" tvg-name="gma" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e2/GMA_2024_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250606135406", TV2-GMA
+#EXTINF:-2 ch-number="15" group-title="Curry's TV" tvg-id="32617" tvg-name="GMA" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e2/GMA_2024_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250606135406", TV2-GMA
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -125,7 +125,7 @@ https://bisdaktv.fun/stream/nayswan.php?name=ptv%204
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="KAPAMILYA CHANNEL.ph" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV2-Kapamilya channel HD
+#EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id="7102" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Kapamilya_Channel_Logo_2020.svg/revision/latest?cb=20250119113324", TV2-Kapamilya channel HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -338,7 +338,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
-#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231102358", TV3-Alltv2
+#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="5191" tvg-name="ALLTV" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231102358", TV3-Alltv2
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
