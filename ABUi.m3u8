@@ -2,7 +2,7 @@ Audience Blackbroadcast Unit Interface
 
 #EXTM3U billed-msg="ABUI"
 
-#EXTM3U url-tvg="https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml"
+#EXTM3U url-tvg="https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml"
 
 TV
 
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
