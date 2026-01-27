@@ -166,7 +166,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87H
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Sig's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-3 group-logo="https://i.pinimg.com/736x/80/4f/44/804f448854c266f76fcdaec77906f6d6.jpg"
 
-#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="A2Z CHANNEL.ph" tvg-name="A2Z CHANNEL" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
+#EXTINF:-3 ch-number="20" group-title="Sig's TV" tvg-id="a2z.click" tvg-name="a2z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", TV3-A2Z
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
