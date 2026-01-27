@@ -338,7 +338,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
-#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="5191" tvg-name="ALLTV" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231102358", TV3-Alltv2
+#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="43971" tvg-name="ALLTV" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/e/ed/ALLTV2_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231102358", TV3-Alltv2
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -1923,6 +1923,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
