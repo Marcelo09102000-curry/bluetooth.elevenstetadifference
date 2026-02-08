@@ -1210,7 +1210,8 @@ https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-7 ch-number="167" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Grjngo Western Movies
 https://ba88b7b66ccf41538723ca539b35c4ce.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_GrjngoWesternMovies/playlist.m3u8
 #EXTINF:-7 ch-number="168" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-i Heart movies
-https://hls.nathcreqtives.com/playlist.m3u8?auth=rlSkkpMyOhsV6_0wJZjAoN-xH0wpUsgN5Ju2q-id8N9qbJQIhuneG4lhGLz0jwpq0aFfd7yt7kLvqiOyYZSsrblw66NA80m76aG3nvzez_6VHJoKNJDeUaWjQKGaPTbSsvC9wWWR_4rxtc3xGvCIEHB5lDKZBI6pj23svh-L0cTlOUIC36AgcUdi8aQl2YHXpOdPUuv3ZYuJMZSpTEvJMIPy3yAh63kS1x7Y7hQ-HPDvkbbrRrHAuQfUoUqKdha6bgyF84ttHKW72EmM6HJsBxsN46HoC1BxkGLu4f82-qv_3zrwBW_qWtM1aVKBfpLYK-FL2M6E54eqr5AbAwp5CwM33d4jmaNQH_7FI-x7sv2SgfHyWxhC0JD34HxxcmE3rIKDttbFwFIA0NeQZZIrpHbRG1Wmb91xtPQr5LCq_kWTeBzQsXS7B6EBSciDr6fDEguJsCfJAwIAl6fjeCHc8sq0ARnUFOtcfl7bKvzYYIucIEEJ0laqt7R__PaydVTVHtNbvb12rHbud9SnXzyWwYpJ2OO-XeBUjjbiQyA1jfOyVcux1nLgKESdiCOT_ux88cz_ud7qK9w9K3_RnYRC2g
+https://hls.nathcreqtives.com/iheartmovies.m3u8
+/auth/rlSkkpMyOhsV6_0wJZjAoN-xH0wpUsgN5Ju2q-id8N9qbJQIhuneG4lhGLz0jwpq0aFfd7yt7kLvqiOyYZSsrblw66NA80m76aG3nvzez_6mrUM3et5tMN7JgglJywTgkfZLeTzAD0ytfOA8O68ACLAZnAD0tBNNLcAhjqfuHsLAIVNrKgUqb6M3gK26MBiicmzsrP4NofsofZUKJsVyJQaQb3WnXiYHOkdWa7bOqvmO04pfi3UO4lob9NDwwv7qMh1d92qI8FNlrjdSYklkncDDUi0kADjm3wGGNbgnTqdgwv6m1Y24_WMYF5n0rvhEISgqaGlEBhr-nCamRI1AjsR9zUOiV2nX8tLSqratQTwYP6NXIMTZX9R1qJ3dZ9fbKvo9tAXrawDFRCFoqmD2q55mDxyP2__CnKb02J6FqcH8_xg9lU92x92U2xljw6UzaiwjT5wPThxRQYNSbG2Ni54uvhFDJZQmeQ3Xhw-9tmlptugs1fGmHiTroQE2JokuP2IORiVgiBNoNYTZ80czsTI1X8A7kCHYtQZTq1RSettyxiBMzaNuEFe7q_BOBmzybizS316OCTbTXZnaMj47GQ
 #EXTINF:-7 ch-number="169" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/38/Hallypop_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241210140522", TV7-Hallypop
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
@@ -1929,6 +1930,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
