@@ -853,13 +853,13 @@ http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=31363234383633343838373039333431:3838505141446f42397a723234697541
 http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoTcUYwq3PMi%2FTObKiSY6bDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1209889128637&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=GFCSNPUV69DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-6 ch-number="110" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png", TV6-AXN
-#EXTVLCOPT:http-referrer=https://cignalplay.com
-#EXTVLCOPT:http-origin=https://cignalplay.com
+#EXTVLCOPT:http-referrer=https://astro.com
+#EXTVLCOPT:http-origin=https://astro.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+https://converse.nathcreqtives.com/astro/2303/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzcyMDE1MDk2LCJleHAiOjE3NzI4NzY3MzUsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mjg3NjczNX0.V3w29-ydcWB0fDPYKmdf4aSJjy1qK0L0w1H6Iqwwvjg
 #EXTINF:-6 ch-number="111" group-title="Salgu's TV" tvg-id="cg_hbohits.cignal" tvg-name="cg_hbohits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png", TV6-HBO Hits
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -1210,8 +1210,7 @@ https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-7 ch-number="167" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Grjngo Western Movies
 https://ba88b7b66ccf41538723ca539b35c4ce.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_GrjngoWesternMovies/playlist.m3u8
 #EXTINF:-7 ch-number="168" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-i Heart movies
-https://hls.nathcreqtives.com/iheartmovies.m3u8
-/auth/rlSkkpMyOhsV6_0wJZjAoN-xH0wpUsgN5Ju2q-id8N9qbJQIhuneG4lhGLz0jwpq0aFfd7yt7kLvqiOyYZSsrblw66NA80m76aG3nvzez_6mrUM3et5tMN7JgglJywTgkfZLeTzAD0ytfOA8O68ACLAZnAD0tBNNLcAhjqfuHsLAIVNrKgUqb6M3gK26MBiicmzsrP4NofsofZUKJsVyJQaQb3WnXiYHOkdWa7bOqvmO04pfi3UO4lob9NDwwv7qMh1d92qI8FNlrjdSYklkncDDUi0kADjm3wGGNbgnTqdgwv6m1Y24_WMYF5n0rvhEISgqaGlEBhr-nCamRI1AjsR9zUOiV2nX8tLSqratQTwYP6NXIMTZX9R1qJ3dZ9fbKvo9tAXrawDFRCFoqmD2q55mDxyP2__CnKb02J6FqcH8_xg9lU92x92U2xljw6UzaiwjT5wPThxRQYNSbG2Ni54uvhFDJZQmeQ3Xhw-9tmlptugs1fGmHiTroQE2JokuP2IORiVgiBNoNYTZ80czsTI1X8A7kCHYtQZTq1RSettyxiBMzaNuEFe7q_BOBmzybizS316OCTbTXZnaMj47GQ
+https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzcyMDE1MDk2LCJleHAiOjE3NzI4NzY3MzUsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mjg3NjczNX0.V3w29-ydcWB0fDPYKmdf4aSJjy1qK0L0w1H6Iqwwvjg
 #EXTINF:-7 ch-number="169" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/38/Hallypop_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241210140522", TV7-Hallypop
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
@@ -1221,7 +1220,7 @@ https://hls.nathcreqtives.com/iheartmovies.m3u8
 #KODIPROP:inputstream.adaptive.license_key=31363233343133343534323335373438:75467735704170524847774a63594361
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-7 ch-number="170" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Heart of asia
-http://hls.nathcreqtives.com/playlist.m3u8?id=1
+https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzcyMDE1MDk2LCJleHAiOjE3NzI4NzY3MzUsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mjg3NjczNX0.V3w29-ydcWB0fDPYKmdf4aSJjy1qK0L0w1H6Iqwwvjg
 #EXTINF:-7 ch-number="171" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Film rise Film movies
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984019&ads.xumo_streamId=99984019&ads.channelId=99984019&ads.ad_tag_id=34963&ads.csid=lgchannels_uk_filmrisefreemovies_ssai&ads.channelName=filmrisefreemovies_uk&ads.xumo_contentName=filmrisefreemovies&ads.xumo_contentId=2071&ads.xumo_providerName=filmrisefreemovies&ads.xumo_providerId=2071&ads.content_category=IAB1-5&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=bbfc-18&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-7 ch-number="172" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Light & love
@@ -1930,6 +1929,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
