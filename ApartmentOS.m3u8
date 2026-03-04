@@ -2,7 +2,7 @@ Apartment OS
 
 #EXTM3U billed-msg="Apartment OS (formerly: Easy cable)"
 
-#EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml.js, https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml"
+#EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml.js, https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml, https://raw.githubusercontent.com/Marcelo09102000-curry/apt.elevenstatedifference.cable/refs/heads/main/philippines1.xml"
 
 TV
 
@@ -1917,6 +1917,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Wish 1075
 https://radio.wish1075.com/web/stream/wish.m3u8
+
 
 
 
