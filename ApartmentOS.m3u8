@@ -461,6 +461,8 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #EXTINF:-4 ch-number="59" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png", TV4-Jeepney TV
+#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/player/e92dc594-51f5-46eb-9ed1-da63fd1b6e1e
+#EXTVLCOPT:http-origin=https://www.iwanttfc.com/player/e92dc594-51f5-46eb-9ed1-da63fd1b6e1e
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
