@@ -128,7 +128,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id"CINEMO!.ph" tvg-name="CINEMO!" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png", TV3-CineMo!
+#EXTINF:-2 ch-number="16" group-title="Curry's TV" tvg-id"CINEMO!.ph" tvg-name="CINEMO!" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png", TV2-CineMo!
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
