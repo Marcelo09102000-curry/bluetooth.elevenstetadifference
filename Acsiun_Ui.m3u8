@@ -314,23 +314,13 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 #EXTINF:-3 ch-number="38" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.ibb.co/NTqmxxj/Hungarian-Fight-Championship-HFC-logo-removebg-preview.png", TV3-HFC
 https://ln.run/4x0dD
 #EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://1cms-img.imgix.net/SMNI-logo-1.jpg?auto=compress", TV3-SMNI (Female only)
-#EXTVLCOPT:AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D
-#EXTVLCOPT:version=v1.0
-#EXTVLCOPT:virtualDomain=001.live_hls.zte.com
-#EXTVLCOPT:programid=ch00000000000000001335
-#EXTVLCOPT:contentid=ch00000000000000001335
-#EXTVLCOPT:videoid=ch00000090990000001155
-#EXTVLCOPT:recommendtype=0
-#EXTVLCOPT:userid=1436446282400
-#EXTVLCOPT:stbid=02%3A00%3A00%3A00%3A00%3A00
-#EXTVLCOPT:terminalflag=1
-#EXTVLCOPT:profilecode=none
-#EXTVLCOPT:usersessionid=ZCER3GW1NZPXXX
-#EXTVLCOPT:NeedJITP=1
-#EXTVLCOPT:JITPMediaType=DASH
-#EXTVLCOPT:JITPDRMType=YES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://136.239.173.10:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTVLCOPT:http-referrer=http://136.239.158.18:6610
+#EXTVLCOPT:http-origin=http://136.239.158.18:6610
+#KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.mainfest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232373835303932373135373431:3250464a49584c376b53337579504f56
 http://136.239.173.10:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001335&contentid=ch00000000000000001335&videoid=ch00000090990000001155&recommendtype=0&userid=1436446282400&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZCER3GW1NZPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=YES&inputstream.adaptive.license_type=com.widevine.alpha&inputstream.adaptive.license_key=http://136.239.173.10:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-3 ch-number="40" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134161793.png", TV3-Tap Sports
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
