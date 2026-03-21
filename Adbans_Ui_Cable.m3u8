@@ -1,5 +1,5 @@
-Acsiun Ui
-#EXTM3U billed-msg="Acsiun Ui (formerly: Easy cable)"
+Adbans Ui Cable
+#EXTM3U billed-msg="Adbans Ui Cable (formerly: Easy cable)"
 
 #EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml.js, https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml, https://raw.githubusercontent.com/Marcelo09102000-curry/apt.elevenstatedifference.cable/refs/heads/main/philippines1.xml"
 
