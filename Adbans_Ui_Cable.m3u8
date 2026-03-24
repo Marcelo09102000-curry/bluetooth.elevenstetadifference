@@ -315,7 +315,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 #EXTINF:-3 ch-number="38" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.ibb.co/NTqmxxj/Hungarian-Fight-Championship-HFC-logo-removebg-preview.png", TV3-HFC
 https://ln.run/4x0dD
 #EXTINF:-3 ch-number="39" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://1cms-img.imgix.net/SMNI-logo-1.jpg?auto=compress", TV3-SMNI (Female only)
-https://converse.nathcreqtives.com/1155/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzc0MjY2MDU0LCJleHAiOjE3NzQyNjY5NTQsImFjY291bnRFeHBpcmVkIjp0cnVlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzcyODc2NzM1LCJhbGxvd2VkT3JpZ2lucyI6W119.lNDt1x0lVhl9ucW2NGudu4rI58CqVEqpS7fx6Mi8jAs
+https://converse.nathcreqtives.com/1155/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJpYXQiOjE3NzQzNjk0MTksImV4cCI6MTc3NDM3MDMxOSwiYWNjb3VudEV4cGlyZWQiOnRydWUsImFjY291bnRFeHBpcmVzQXQiOjE3NjY3NjU2NTIsImFsbG93ZWRPcmlnaW5zIjpbXX0.1JlTbPhKwoUcxul55wes_u30lqEgk9fikWyn7ms6Geg
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31373031363636343834333733333033:39346c527a596c59304a313449343338
@@ -664,7 +664,7 @@ https://bisdaktv.fun/stream/nayswan.php?name=cinema%20one
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://converse.nathcreqtives.com/indihome/cinemaworld/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzc0MjY2MDU0LCJleHAiOjE3NzQyNjY5NTQsImFjY291bnRFeHBpcmVkIjp0cnVlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzcyODc2NzM1LCJhbGxvd2VkT3JpZ2lucyI6W119.lNDt1x0lVhl9ucW2NGudu4rI58CqVEqpS7fx6Mi8jAs
+https://converse.nathcreqtives.com/indihome/cinemaworld/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYXJjZWxvY2F0aW5kaWciLCJpYXQiOjE3NzQzNjk0MTksImV4cCI6MTc3NDM3MDMxOSwiYWNjb3VudEV4cGlyZWQiOnRydWUsImFjY291bnRFeHBpcmVzQXQiOjE3NjY3NjU2NTIsImFsbG93ZWRPcmlnaW5zIjpbXX0.1JlTbPhKwoUcxul55wes_u30lqEgk9fikWyn7ms6Geg
 #EXTINF:-5 ch-number="87" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/3RVA5mV.png", TV5-Tap movies
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
