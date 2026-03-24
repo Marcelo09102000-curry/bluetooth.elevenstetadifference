@@ -8,8 +8,15 @@ TV
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Half's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/7d/51/02/7d5102e78157513d69eea429d620dc75.jpg"
 
-#EXTINF:-1 ch-number="1" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest?cb=20250824042957", TV1-Abante Teletabloid
-https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 ch-number="1" group-title="Half's TV" tvg-id="kapamilya-channel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/ABS-CBN_sa_ALLTV2_V2.svg/revision/latest?cb=20260317081648", TV1-ABS-CBN sa Alltv2
+#EXTVLCOPT:http-referrer=http://136.239.158.18:6610
+#EXTVLCOPT:http-origin=http://136.239.158.18:6610
+#KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.mainfest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 ch-number="2" group-title="Half's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/bpRiu54.png", TV1-One news
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -95,15 +102,8 @@ http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 https://converse.nathcreqtives.com/astro/2709/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzcyMDE1MDk2LCJleHAiOjE3NzI4NzY3MzUsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mjg3NjczNX0.V3w29-ydcWB0fDPYKmdf4aSJjy1qK0L0w1H6Iqwwvjg
-#EXTINF:-2 ch-number="12" group-title="Curry's TV" tvg-id="kapamilya-channel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/ABS-CBN_sa_ALLTV2_V2.svg/revision/latest?cb=20260317081648", TV2-ABS-CBN sa Alltv2
-#EXTVLCOPT:http-referrer=http://136.239.158.18:6610
-#EXTVLCOPT:http-origin=http://136.239.158.18:6610
-#KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
-http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-2 ch-number="12" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest?cb=20250824042957", TV2-Abante Teletabloid
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-2 ch-number="13" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/Y02f0xoWPJqyZZ5C_tTQ2ybIEETeYQmNIigXtaOvRKNkTG8sgZ-ynGBtno752hMY5_iDUw2GhBY=s160-c-k-c0x00ffffff-no-rj", TV2--rock of manila
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
