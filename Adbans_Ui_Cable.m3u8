@@ -30,7 +30,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd?app_bundle=&app_name=iwant&app_store_url=&asn=17639&channel_name=DZMMTeleradyo&content_id=b4c8a8c5-2f20-4686-be75-b20b797be711&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=e4895a90-4a77-5c66-9fba-942a376722dd&dnt=0&dur=0&gdpr=0&gdpr_consent=0&genre=News&ifa_type=PPID&language=fil&lmt=0&network_name=ABS-CBN&network_type=&partner_id=&pmxd=%7B%7BPOD_MAX_DUR_MILLIS%7D%7D&rating=13%2B&sid=ab2fe5a8-8f61-43d1-97f4-b4281dcc5a7a&title=DZMMTeleradyo&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F147.0.0.0+Safari%2F537.36&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2Fb4c8a8c5-2f20-4686-be75-b20b797be711&us_privacy=1
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 #EXTINF:-1 ch-number="4" group-title="Half's TV" tvg-id="bilyonaryoch.cignal" tvg-name="bilyonaryoch" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Img_1_1756009833117.jpg/revision/latest?cb=20250824043538", TV1-BNC HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
@@ -101,7 +101,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-https://converse.nathcreqtives.com/astro/2709/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzc1ODc5MzY4LCJleHAiOjE3NzU4ODAyNjgsImFjY291bnRFeHBpcmVkIjp0cnVlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzcyODc2NzM1LCJhbGxvd2VkT3JpZ2lucyI6W119.HhjwjY_ZQtqgci8CWSZrtqK4vhCU1pKXWuicftjXVhs
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #EXTINF:-2 ch-number="12" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest?cb=20250824042957", TV2-Abante Teletabloid
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-2 ch-number="13" group-title="Curry's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/Y02f0xoWPJqyZZ5C_tTQ2ybIEETeYQmNIigXtaOvRKNkTG8sgZ-ynGBtno752hMY5_iDUw2GhBY=s160-c-k-c0x00ffffff-no-rj", TV2--rock of manila
