@@ -30,7 +30,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/3bbdd56b-7a36-4b8a-b2f8-3ca6b071a361/index.mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd?app_bundle=&app_name=iwant&app_store_url=&asn=17639&channel_name=DZMMTeleradyo&content_id=b4c8a8c5-2f20-4686-be75-b20b797be711&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=e4895a90-4a77-5c66-9fba-942a376722dd&dnt=0&dur=0&gdpr=0&gdpr_consent=0&genre=News&ifa_type=PPID&language=fil&lmt=0&network_name=ABS-CBN&network_type=&partner_id=&pmxd=%7B%7BPOD_MAX_DUR_MILLIS%7D%7D&rating=13%2B&sid=ab2fe5a8-8f61-43d1-97f4-b4281dcc5a7a&title=DZMMTeleradyo&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F147.0.0.0+Safari%2F537.36&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2Fb4c8a8c5-2f20-4686-be75-b20b797be711&us_privacy=1
 #EXTINF:-1 ch-number="4" group-title="Half's TV" tvg-id="bilyonaryoch.cignal" tvg-name="bilyonaryoch" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Img_1_1756009833117.jpg/revision/latest?cb=20250824043538", TV1-BNC HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
