@@ -762,11 +762,13 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363232353336373333353433323038:41783735743962647251314a4a383947
 http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
 #EXTINF:-5 ch-number="97" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.imgur.com/O5jBcL2.png", TV5-Asian Food Network
+#EXTVLCOPT:http-referrer=http://cignalplay.com
+#EXTVLCOPT:http-origin=http://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-https://converse.nathcreqtives.com/astro/500/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzc1ODc5MzY4LCJleHAiOjE3NzU4ODAyNjgsImFjY291bnRFeHBpcmVkIjp0cnVlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzcyODc2NzM1LCJhbGxvd2VkT3JpZ2lucyI6W119.HhjwjY_ZQtqgci8CWSZrtqK4vhCU1pKXWuicftjXVhs
+#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+https://ucdn.mediaquest.com.ph/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 #EXTINF:-5 ch-number="98" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/587_144.png", TV5-CGTN documentary
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
