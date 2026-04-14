@@ -414,7 +414,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
 #EXTINF:-4 ch-number="50" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://data.phcorner.org/2025/10/12139896_ccph-mod2025_orig.png", TV4-Cartoon Channel PH
-https://vaughn.live/cartoonchannelph
+https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
 #EXTINF:-4 ch-number="51" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/3b/RPTV_Para_sa_Pinoy%21_White_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240615003339", TV4-RPTV (TV5)
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
