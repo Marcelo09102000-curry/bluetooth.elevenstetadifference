@@ -413,7 +413,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-4 ch-number="50" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://data.phcorner.org/2025/10/12139896_ccph-mod2025_orig.png", TV4-Cartoon Channel PH
+#EXTINF:-4 ch-number="50" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/1200x/f2/ff/04/f2ff04cd6a7a2d1cfc8fe574fa8d648b.jpg", TV4-Cartoon Channel PH
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
 #EXTINF:-4 ch-number="51" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/3b/RPTV_Para_sa_Pinoy%21_White_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240615003339", TV4-RPTV (TV5)
 #EXTVLCOPT:http-referrer=https://cignalplay.com
@@ -564,7 +564,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234393439353931383032393636:3570773244533748733935644c787a56
 http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1235993277645&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=36FNJHET6H5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-4 ch-number="70" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://example.com/logos/discovery.png", TV4-Discovery channel
+#EXTINF:-4 ch-number="70" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png", TV4-Discovery channel
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -582,7 +582,7 @@ https://raw.githubusercontent.com/Marcelo09102000-curry/bluetooth.elevenstetadif
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363639393633373136353837383139:767561696f37546667306c7366623536
 http://136.158.97.2:6610/001/2/ch00000090990000001313/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqw9ZN8%2FlFWTDIEPbxgABCW2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001813&contentid=ch00000000000000001813&videoid=ch00000090990000001313&recommendtype=0&userid=1140094439681&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BS77CJ4ADFHXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55&IASHttpSessionId=RR20447520260101155241866674&ispcode=55
-#EXTINF:-4 ch-number="73" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV4-Global Trekker
+#EXTINF:-4 ch-number="73" group-title="Amogus's TV" tvg-id="_" tvg-name="https://accion.com.ph/wp-content/uploads/2023/02/GT-Thumbnail-New.jpg" tvg-logo="_", TV4-Global Trekker
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -640,7 +640,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v8
 http://136.239.173.10:6610/001/2/ch00000090990000001105/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJrNGPTxGM8qlI%2FCYICZgnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001220&contentid=ch00000000000000001220&videoid=ch00000090990000001105&recommendtype=0&userid=1221561345308&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=3IL8RUTMYBCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155237172197&ispcode=55
 #EXTINF:-5 ch-number="80" group-title="Loaf's TV" tvg-id="HopeChannelPhilippines.ph@SD" tvg-name="_" tvg-logo="https://i.imgur.com/LB2vmMt.png", TV5-Hope TV
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
-#EXTINF:-5 ch-number="81" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Pinoy extreme
+#EXTINF:-5 ch-number="81" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/JUPYevZUV0140ASS3Ddvg5LDTIUzzFOfjqysCXWwWzmJexRVY3Y5cqKJrxyAXK17K-72G1QV=s160-c-k-c0x00ffffff-no-rj", TV5-Pinoy extreme
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -759,7 +759,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
-#EXTINF:-5 ch-number="96" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-TBN asia
+#EXTINF:-5 ch-number="96" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/08/01/f9/0801f92d2818667ac41c5e1cfbe1c13f.jpg", TV5-TBN asia
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -917,7 +917,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV6-Vegas Life [Not subscribed to ABUi]
+#EXTINF:-6 ch-number="115" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png", TV6-Vegas Life {Need to pay Adbans Ui}
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -973,7 +973,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v8
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-6 ch-number="123" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://www.clipartmax.com/png/full/345-3452629_fx-network-fx-channel-logo-png.png", TV6-FX
 https://tvpass.org/live/FXXEast/sd
-#EXTINF:-6 ch-number="124" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV6-3abn
+#EXTINF:-6 ch-number="124" group-title="Salgu's TV" tvg-id="_" tvg-name="_" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kleM5ToQWss0eqzEHpTB9WgaQOB07SH-VkfreUtXYwDw=s160-c-k-c0x00ffffff-no-rj", TV6-3abn
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1232,7 +1232,7 @@ https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
 #EXTINF:-7 ch-number="167" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Grjngo Western Movies
 https://ba88b7b66ccf41538723ca539b35c4ce.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_GrjngoWesternMovies/playlist.m3u8
-#EXTINF:-7 ch-number="168" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-i Heart movies
+#EXTINF:-7 ch-number="168" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/cf/I_Heart_Movies_Logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20250218003558", TV7-i Heart movies
 https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzc1ODc5MzY4LCJleHAiOjE3NzU4ODAyNjgsImFjY291bnRFeHBpcmVkIjp0cnVlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzcyODc2NzM1LCJhbGxvd2VkT3JpZ2lucyI6W119.HhjwjY_ZQtqgci8CWSZrtqK4vhCU1pKXWuicftjXVhs
 #EXTINF:-7 ch-number="169" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/38/Hallypop_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241210140522", TV7-Hallypop
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
@@ -1242,7 +1242,7 @@ https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343133343534323335373438:75467735704170524847774a63594361
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-7 ch-number="170" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Heart of asia
+#EXTINF:-7 ch-number="170" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20241129142243", TV7-Heart of asia
 https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dXJ0eWNlbHV0IiwiaWF0IjoxNzc1ODc5MzY4LCJleHAiOjE3NzU4ODAyNjgsImFjY291bnRFeHBpcmVkIjp0cnVlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzcyODc2NzM1LCJhbGxvd2VkT3JpZ2lucyI6W119.HhjwjY_ZQtqgci8CWSZrtqK4vhCU1pKXWuicftjXVhs
 #EXTINF:-7 ch-number="171" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Film rise Film movies
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984019&ads.xumo_streamId=99984019&ads.channelId=99984019&ads.ad_tag_id=34963&ads.csid=lgchannels_uk_filmrisefreemovies_ssai&ads.channelName=filmrisefreemovies_uk&ads.xumo_contentName=filmrisefreemovies&ads.xumo_contentId=2071&ads.xumo_providerName=filmrisefreemovies&ads.xumo_providerId=2071&ads.content_category=IAB1-5&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=bbfc-18&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
