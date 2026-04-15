@@ -572,7 +572,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
-#EXTINF:-4 ch-number="71" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/0e/7f/b9/0e7fb93d99234542c1634ec5350549b6.jpg", TV4-SDTV
+#EXTINF:-4 ch-number="71" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/74/ef/f1/74eff111d4c8785d30dedb36c1dfaf5a.jpg", TV4-Star TV PH
 https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8
 #EXTINF:-4 ch-number="72" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png", TV4-Nickelodeon
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
