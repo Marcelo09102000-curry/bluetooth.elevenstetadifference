@@ -719,7 +719,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353337323935353433383639:696d305237483130677335756d643933
 http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-5 ch-number="91" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV5-Motor Vision+
+#EXTINF:-5 ch-number="91" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3Nwb3J0c3BsdXMvbG9nby84YWI1NDkxNC03YjU1LTQ0ZTctOGExNy02MTRjY2RkYTc5OWE", TV5-Motor Vision+
 https://stream.ads.ottera.tv/cl/260415d7fheumuee33iug0qa2g/1920x1080_5359200_4_f.m3u8?i=906_2020
 #EXTINF:-5 ch-number="92" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584516837_premiere-football.jpg", TV5-Premier football
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
