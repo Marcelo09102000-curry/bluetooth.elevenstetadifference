@@ -1271,10 +1271,9 @@ https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-7_ ch-number="186" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Highway Thru Hell
 https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
 #EXTINF:-7_ ch-number="187" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Wish 1075 screen time
-#EXTVLCOPT:http-origin=https://www.wish1075.com
-#EXTVLCOPT:http-referrer=https://www.wish1075.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://radio.wish1075.com/web/stream/wish.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://radio.wish1075.com/widevine/?deviceId=1075
+https://radio.wish1075.com/web/stream/wish.mpd
 #EXTINF:-7_ ch-number="188" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Fear Factor
 https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
 #EXTINF:-7_ ch-number="189" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="_", TV7-Hardcore Pawn
