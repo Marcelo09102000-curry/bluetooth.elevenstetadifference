@@ -1890,6 +1890,9 @@ https://eu10.fastcast4u.com/uragon98
 http://192.99.8.192:3154/www.vhiveradio.com/
 
 
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-DZMM Radyo Patrol 630
+https://stream.zeno.fm/yaksrqvb35duv?type=.aac
+
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-El Shaddai radio
 https://in-icecast.eradioportal.com:8443/dwxi-streaming
 
