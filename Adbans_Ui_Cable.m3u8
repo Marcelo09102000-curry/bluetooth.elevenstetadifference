@@ -1931,6 +1931,9 @@ https://hrmanila.radioca.st/stream
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-98.7 The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
 
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-99.5 xfm Metro Manila
+https://prox.radyoph.com/s/346e90a13a75701e0bef5fefd181872f
+
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-100.3 RJ FM
 https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
 
