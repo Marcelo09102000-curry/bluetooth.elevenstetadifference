@@ -1940,6 +1940,9 @@ https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-101.1 Yes Fm
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-MOREntertainment 101.9
+https://stream.zeno.fm/0ha8ftewqp8uv?type=.aac
+
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
 
@@ -1948,6 +1951,12 @@ http://103.36.17.18:8000/stream
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-104.3 The Capital
 http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-105.1 Brigada news fm
+http://18.141.67.248:8068/stream
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-105.9 true fm dwla
+https://listen.mixlr.com/5d44c1e17e4e0b70ad9c923fdae0da8a
 
 #EXTINF:-a tvg-logo="" group-title="Radios", RD-C-106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
