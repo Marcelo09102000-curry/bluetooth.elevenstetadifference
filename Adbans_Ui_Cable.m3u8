@@ -8,7 +8,7 @@ TV
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<Half's TV>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/7d/51/02/7d5102e78157513d69eea429d620dc75.jpg"
 
-#EXTINF:-1 ch-number="1" group-title="Half's TV" tvg-id="kapamilya-channel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/ABS-CBN_sa_ALLTV2_V2.svg/revision/latest?cb=20260317081648", TV1-ABS-CBN sa Alltv2
+#EXTINF:-1 ch-number="1" group-title="Half's TV" tvg-id="kapamilya-channel.click" tvg-name="kapamilya-channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/ABS-CBN_sa_ALLTV2_V2.svg/revision/latest?cb=20260317081648", TV1-ABS-CBN sa Alltv2
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -114,7 +114,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-2 ch-number="15" group-title="Curry's TV" tvg-id="gma.click" tvg-name="gma" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e2/GMA_2024_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250606135406", TV2-GMA
+#EXTINF:-2 ch-number="15" group-title="Curry's TV" tvg-id="GMA.ph" tvg-name="GMA" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e2/GMA_2024_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250606135406", TV2-GMA
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -226,7 +226,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238303538303333323032:486c53576e387559676c774b53375037
 http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-3 ch-number="27" group-title="Sig's TV" tvg-id="gtv.click" tvg-name="gtv" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png", TV3-Gtv
+#EXTINF:-3 ch-number="27" group-title="Sig's TV" tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png", TV3-Gtv
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -352,7 +352,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_sarisari/default/index.mpd
-#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="kapamilya-channel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/0/09/ABS-CBN_Kapamilya_Channel.svg/revision/latest/scale-to-width-down/268?cb=20260315225126", TV3-ABS-CBN|Kapamilya channel HD
+#EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="kapamilya-channel.click" tvg-name="kapamilya-channel" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/0/09/ABS-CBN_Kapamilya_Channel.svg/revision/latest/scale-to-width-down/268?cb=20260315225126", TV3-ABS-CBN|Kapamilya channel HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -574,7 +574,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v8
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 #EXTINF:-4 ch-number="71" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/74/ef/f1/74eff111d4c8785d30dedb36c1dfaf5a.jpg", TV4-Star TV PH
 https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8
-#EXTINF:-4 ch-number="72" group-title="Amogus's TV" tvg-id="dr_nickelodeon.cignal" tvg-name="nickelodeon" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png", TV4-Nickelodeon
+#EXTINF:-4 ch-number="72" group-title="Amogus's TV" tvg-id="Nickelodeon.HD.my" tvg-name="Nickelodeon HD" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png", TV4-Nickelodeon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -783,7 +783,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393339333834323333353038:756a7351733939554668654a79633372
 http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-5 ch-number="100" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png", TV5-HGTV
+#EXTINF:-5 ch-number="100" group-title="Loaf's TV" tvg-id="hgtv_hd1.cignal" tvg-name="hgtv_hd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png", TV5-HGTV
 #EXTVLCOPT:http-referrer=http://cignalplay.com
 #EXTVLCOPT:http-origin=http://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -973,7 +973,7 @@ https://tvpass.org/live/FXXEast/sd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238373138303333383536:483831727543493439436c394f623444
 http://136.239.173.10:6610/001/2/ch00000090990000001183/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr64o8Us4Cb76FV%2BmBBNwJ2syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001397&contentid=ch00000000000000001397&videoid=ch00000090990000001183&recommendtype=0&userid=1977582136078&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=45K5UYO1H2DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-6 ch-number="125" group-title="Salgu's TV" tvg-id="Cartoon.Network.HD.my" tvg-name="Cartoon Network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png", TV6-Cartoon Network
+#EXTINF:-6 ch-number="125" group-title="Salgu's TV" tvg-id="cartoonnetworkhd.cignal" tvg-name="Cartoon Network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png", TV6-Cartoon Network
 #EXTVLCOPT:http-referrer=http://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
