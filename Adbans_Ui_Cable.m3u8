@@ -254,7 +254,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=31363233323237323935303332363334:38346b5732353165303954347677476e
 http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
 #EXTINF:-3 ch-number="30" group-title="Sig's TV" tvg-id="arirang_sd.cignal" tvg-name="arirang" tvg-logo="https://banner2.cleanpng.com/20180805/ysg/833f9b250710d9dcd6c9c2d8dc5e06f2.webp", TV3-Arirang HD
-https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-3 ch-number="31" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png", TV3-BNC SD
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -885,7 +885,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default1/index.mpd
-#EXTINF:-6 ch-number="112" group-title="Salgu's TV" tvg-id="cg_hbofam.cignal" tvg-name="cg_hbofam" tvg-logo="https://www.pngitem.com/pimgs/m/153-1531106_hbo-family-hd-png-download.png", TV6-HBO Family
+#EXTINF:-6 ch-number="112" group-title="Salgu's TV" tvg-id="cg_hbofam.cignal" tvg-name="cg_hbofam" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/HBO-Family-300x300.png", TV6-HBO Family
 #EXTVLCOPT:http-referrer=http://cignalplay.com
 #EXTVLCOPT:http-origin=http://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
