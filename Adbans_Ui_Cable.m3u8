@@ -142,8 +142,8 @@ http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
 http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
 #EXTINF:-2 ch-number="18" group-title="Curry's TV" tvg-id="TV5.ph" tvg-name="PH - TV 5" tvg-logo="https://yt3.googleusercontent.com/TymQjmBVY9ZSStktLxBK7jWS3JP7GBB8SLmYJNjfVn-ZfWy_LOwu8pcZNQKoyOVQS4fUCosR=s160-c-k-c0x00ffffff-no-rj", TV2-TV5
-#EXTVLCOPT:http-referrer=http://136.239.158.18:6610
-#EXTVLCOPT:http-origin=http://136.239.158.18:6610
+#EXTVLCOPT:http-referrer=https://cignalplay.com
+#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
