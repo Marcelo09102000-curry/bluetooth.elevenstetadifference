@@ -795,7 +795,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://ucdn.mediaquest.com.ph/bpk-tv/hgtv_hd1/default/index.mpd
-#EXTINF:-5 ch-number="101" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.namu.wiki/i/u-e0HLBRX7MagacDlw_5isrzSZe07lLSPyr2qCB4fOaxfeySZ-WQYNaSGF0F48ER6hTcTgshUy040O_i8GSIo-bBfNPVx7aKFcGsjLrl-L-7S-2xrVZH_ofHEdhSAcQQOxPGvDAiN33JcrR3kUT9VA.webp", TV5-NHK BS 1
+#EXTINF:-5 ch-number="101" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs101.png", TV5-NHK BS 1
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
