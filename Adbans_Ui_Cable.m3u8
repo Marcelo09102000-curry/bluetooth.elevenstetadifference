@@ -1,7 +1,7 @@
 Adbans Ui Cable
 #EXTM3U billed-msg="Adbans Ui Cable (formerly: Easy cable)"
 
-#EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml, https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml"
+#EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml, https://github.com/atone77721/GSAT_EPG/raw/refs/heads/main/gsat_epg.xml, https://epg.iill.top/epg.xml.gz"
 
 TV
 
@@ -208,7 +208,7 @@ http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:74576436426946764a6b4e5734456e37
 http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-3 ch-number="25" group-title="Sig's TV" tvg-id="cg_hbohd.cignal" tvg-name="cg_hbohd" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122", TV3-HBO
+#EXTINF:-3 ch-number="25" group-title="Sig's TV" tvg-id=HBO HD" tvg-name="HBO HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122", TV3-HBO
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamAuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D
@@ -289,7 +289,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
-#EXTINF:-3 ch-number="35" group-title="Sig's TV" tvg-id="cg_hbosign.cignal" tvg-name="cg_hbosign" tvg-logo="https://i.imgur.com/t4HF5va.png", TV3-HBO Signature
+#EXTINF:-3 ch-number="35" group-title="Sig's TV" tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/t4HF5va.png", TV3-HBO Signature
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -575,7 +575,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v8
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 #EXTINF:-4 ch-number="71" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/74/ef/f1/74eff111d4c8785d30dedb36c1dfaf5a.jpg", TV4-Star TV PH
 https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8
-#EXTINF:-4 ch-number="72" group-title="Amogus's TV" tvg-id="Nickelodeon.HD.my" tvg-name="Nickelodeon HD" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png", TV4-Nickelodeon
+#EXTINF:-4 ch-number="72" group-title="Amogus's TV" tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png", TV4-Nickelodeon
 #EXTVLCOPT:http-referrer=http://136.158.97.2:6610
 #EXTVLCOPT:http-origin=http://136.158.97.2:6610
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
@@ -584,7 +584,7 @@ https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363639393633373136353837383139:767561696f37546667306c7366623536
 http://136.158.97.2:6610/001/2/ch00000090990000001313/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqw9ZN8%2FlFWTDIEPbxgABCW2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001813&contentid=ch00000000000000001813&videoid=ch00000090990000001313&recommendtype=0&userid=1140094439681&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BS77CJ4ADFHXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55&IASHttpSessionId=RR20447520260101155241866674&ispcode=55
-#EXTINF:-4 ch-number="73" group-title="Amogus's TV" tvg-id="_" tvg-name="https://accion.com.ph/wp-content/uploads/2023/02/GT-Thumbnail-New.jpg" tvg-logo="_", TV4-Global Trekker
+#EXTINF:-4 ch-number="73" group-title="Amogus's TV" tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://accion.com.ph/wp-content/uploads/2023/02/GT-Thumbnail-New.jpg", TV4-Global Trekker
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -881,7 +881,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
-#EXTINF:-6 ch-number="111" group-title="Salgu's TV" tvg-id="cg_hbohits.cignal" tvg-name="cg_hbohits" tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/fc/HBOHits-ASIA.png/revision/latest?cb=20240408172008", TV6-HBO Hits
+#EXTINF:-6 ch-number="111" group-title="Salgu's TV" tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/fc/HBOHits-ASIA.png/revision/latest?cb=20240408172008", TV6-HBO Hits
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -889,7 +889,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default1/index.mpd
-#EXTINF:-6 ch-number="112" group-title="Salgu's TV" tvg-id="cg_hbofam.cignal" tvg-name="cg_hbofam" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/HBO-Family-300x300.png", TV6-HBO Family
+#EXTINF:-6 ch-number="112" group-title="Salgu's TV" tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/HBO-Family-300x300.png", TV6-HBO Family
 #EXTVLCOPT:http-referrer=http://cignalplay.com
 #EXTVLCOPT:http-origin=http://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1078,7 +1078,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830373532303039383138:363354494336436b494a776f4a796634
 http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:-7 ch-number="139" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459", TV7-CGTN
+#EXTINF:-7 ch-number="139" group-title="Maya's TV" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459", TV7-CGTN
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
