@@ -501,7 +501,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2351831e4519c8a7204669b56d276258:c01f5966265cfb1fce0ec0ad9a317913
 https://ac-009.live.p7s1video.net/d2e237d7/t_009/cnbc/cenc-default.mpd
-#EXTINF:-4 ch-number="62" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png+", TV4-Metro channel
+#EXTINF:-4 ch-number="62" group-title="Amogus's TV" tvg-id="_" tvg-name="_" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png", TV4-Metro channel
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -819,7 +819,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
-#EXTINF:-5 ch-number="104" group-title="Loaf's TV" tvg-id="_" tvg-name="_" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", TV5-Al Jazeera
+#EXTINF:-5 ch-number="104" group-title="Loaf's TV" tvg-id="AlJazeera.PH" tvg-name="PH - Al Jazeera" tvg-logo="https://yt3.googleusercontent.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s160-c-k-c0x00ffffff-no-rj", TV5-Al Jazeera
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1207,7 +1207,7 @@ https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
 https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
-#EXTINF:-7 ch-number="163" group-title="Maya's TV" tvg-id="_" tvg-name="_" tvg-logo="https://i.pinimg.com/736x/b8/99/1d/b8991d0685a60bef966208a3624e5f08.jpg", TV7-Nick Jr HD
+#EXTINF:-7 ch-number="163" group-title="Maya's TV" tvg-id="NickJr.ph tvg-name="PH - Nick Jr" tvg-logo="https://i.pinimg.com/736x/b8/99/1d/b8991d0685a60bef966208a3624e5f08.jpg", TV7-Nick Jr HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
